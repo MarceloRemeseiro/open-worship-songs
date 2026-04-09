@@ -9,6 +9,14 @@
       "icon": "📖"
     },
     {
+      "id": "es-worship-popular",
+      "name": "Worship Popular",
+      "description": "Canciones populares de alabanza en español",
+      "language": "es",
+      "file": "packs/es/worship-popular.json",
+      "icon": "🎵"
+    },
+    {
       "id": "en-classic-hymns",
       "name": "Classic Hymns",
       "description": "Traditional church hymns in English",

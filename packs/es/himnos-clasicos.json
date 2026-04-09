@@ -477,26 +477,6 @@
       ]
     },
     {
-      "title": "Dad Gracias Al Senor",
-      "author": "Henry Smith",
-      "originalKey": "G",
-      "ccliNumber": "",
-      "sections": [
-        {
-          "type": "verse",
-          "label": "Verso 1",
-          "content": "[G]Dad gracias de cora[D]zon,\n[Em]dad gracias al San[Bm]tisimo,\n[C]dad gracias porque [G]ha dado\na [Am]su Hijo [D]Je[D7]sus.",
-          "position": 0
-        },
-        {
-          "type": "chorus",
-          "label": "Coro",
-          "content": "Y [G]ahora diga el [Em]debil: fuerte [Am]soy;\ndiga el [D7]pobre: rico [G]soy,\npor [C]lo que hizo el Se[D]nor [D7]por [G]mi.",
-          "position": 1
-        }
-      ]
-    },
-    {
       "title": "Oh Padre Nuestro",
       "author": "Tradicional",
       "originalKey": "G",
@@ -545,64 +525,6 @@
           "label": "Verso 2",
           "content": "[G]Cuando alguno es[Em]te sufriendo le da[G]remos\n[C]la palabra [G]amiga que consuele su do[D]lor.\n[G]Cuando alguno es[Em]te sufriendo le da[C]remos\n[Am]consuelo [D]del Se[G]nor.",
           "position": 2
-        }
-      ]
-    },
-    {
-      "title": "Senor Mi Dios Al Contemplar Los Cielos",
-      "author": "Carl Boberg / Stuart K. Hine",
-      "originalKey": "D",
-      "ccliNumber": "",
-      "sections": [
-        {
-          "type": "verse",
-          "label": "Verso 1",
-          "content": "[D]Senor mi Dios, al [G]contemplar los [D]cielos,\nel [A]firmamento y las estre[D]llas mil,\n[D]al oir tu voz en [G]los potentes [D]truenos\ny [A]ver brillar el sol en [D]su cenit.",
-          "position": 0
-        },
-        {
-          "type": "chorus",
-          "label": "Coro",
-          "content": "Mi cora[D]zon en[G]tona la can[D]cion:\n!Cuan [A]grande es El! !Cuan [D]grande es El!\nMi cora[D]zon en[G]tona la can[D]cion:\n!Cuan [A]grande es El! !Cuan [D]grande es El!",
-          "position": 1
-        },
-        {
-          "type": "verse",
-          "label": "Verso 2",
-          "content": "[D]Al recorrer los [G]montes y los [D]valles\ny [A]ver las bellas flores [D]al pasar,\n[D]al escuchar el [G]canto de las [D]aves\ny el [A]murmurar del claro [D]manantial.",
-          "position": 2
-        },
-        {
-          "type": "verse",
-          "label": "Verso 3",
-          "content": "[D]Cuando recuerdo [G]del amor di[D]vino\nque [A]desde el cielo el [D]Salvador envio,\n[D]aquel Jesus que [G]por salvarme [D]vino\ny en [A]una cruz sufrio [D]y murio.",
-          "position": 3
-        },
-        {
-          "type": "verse",
-          "label": "Verso 4",
-          "content": "[D]Cuando el Senor me [G]llame a su pre[D]sencia,\nal [A]dulce hogar, al cielo [D]de esplendor,\n[D]le adorare can[G]tando la gran[D]deza\nde [A]su poder y su [D]infinito amor.",
-          "position": 4
-        }
-      ]
-    },
-    {
-      "title": "Cuan Bello Es El Senor",
-      "author": "Marcos Witt",
-      "originalKey": "D",
-      "ccliNumber": "",
-      "sections": [
-        {
-          "type": "verse",
-          "label": "Verso 1",
-          "content": "[D]Cuan bello es el Se[G]nor,\ncuan her[A]moso es el Se[D]nor.\n[D]Cuan bello es el Se[G]nor,\nyo le [A]quiero ado[D]rar.",
-          "position": 0
-        },
-        {
-          "type": "chorus",
-          "label": "Coro",
-          "content": "La be[G]lleza de mi [A]Senor\nnunca se [Bm]agota[D]ra,\nla her[G]mosura de mi [A]Senor\nsiempre [Bm]resplande[D]cera.\n[G]Cuan bello es el [A]Senor,\ncuan her[Bm]moso es el [D]Senor.\n[G]Cuan bello es el [A]Senor,\nyo le [D]quiero adorar.",
-          "position": 1
         }
       ]
     }
