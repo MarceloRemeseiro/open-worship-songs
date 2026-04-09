@@ -4,66 +4,77 @@ A community-driven collection of worship songs with lyrics and chords in ChordPr
 
 ## About
 
-This repository provides free, open-source song packs for worship teams. Songs are formatted in JSON with ChordPro-style inline chords, ready to be imported into any compatible worship management software.
+This repository provides free, open-source worship songs for worship teams. Each song is a `.cho` file in standard [ChordPro format](https://www.chordpro.org/), ready to be imported into any compatible worship software.
 
-## Song Packs
+## Structure
 
-| Pack | Language | Songs | Status |
-|------|----------|-------|--------|
-| Himnos Clásicos | 🇪🇸 Spanish | 20 | ✅ |
-| Classic Hymns | 🇬🇧 English | 20 | ✅ |
-| Hinos Clássicos | 🇧🇷 Portuguese | 20 | ✅ |
-| Himnes Clàssics | 🇪🇸 Catalan | — | 🔜 |
-
-## Format
-
-Each pack is a JSON file with this structure:
-
-```json
-{
-  "packId": "en-classic-hymns",
-  "version": "1.0.0",
-  "songs": [
-    {
-      "title": "Amazing Grace",
-      "author": "John Newton",
-      "originalKey": "G",
-      "ccliNumber": "",
-      "sections": [
-        {
-          "type": "verse",
-          "label": "Verse 1",
-          "content": "[G]Amazing [G7]grace, how [C]sweet the [G]sound...",
-          "position": 0
-        }
-      ]
-    }
-  ]
-}
+```
+├── es/
+│   ├── himnos/          # Himnos clásicos (dominio público)
+│   └── popular/         # Canciones populares de worship
+├── en/
+│   └── hymns/           # Classic hymns (public domain)
+├── pt/
+│   └── hinos/           # Hinos clássicos (domínio público)
+└── ca/                  # Himnes (coming soon)
 ```
 
-Chords use inline ChordPro notation: `[Am]word [G]next`.
+## Song Count
+
+| Language | Folder | Songs |
+|----------|--------|-------|
+| 🇪🇸 Spanish | `es/himnos/` | 17 |
+| 🇪🇸 Spanish | `es/popular/` | 2 |
+| 🇬🇧 English | `en/hymns/` | 20 |
+| 🇧🇷 Portuguese | `pt/hinos/` | 20 |
+
+## ChordPro Format
+
+Each `.cho` file looks like this:
+
+```
+{title: Amazing Grace}
+{artist: John Newton}
+{key: G}
+
+{comment: Verse 1}
+[G]Amazing [G7]grace, how [C]sweet the [G]sound
+That [G]saved a [Em]wretch like [D]me
+[G]I once [G7]was lost, but [C]now am [G]found
+Was [G]blind, but [D]now I [G]see
+```
+
+### Supported Directives
+
+- `{title:}` or `{t:}` — Song title
+- `{artist:}` or `{subtitle:}` — Author/artist
+- `{key:}` — Original key
+- `{ccli:}` — CCLI song number
+- `{comment:}` or `{c:}` — Section label (Verse 1, Chorus, Bridge, etc.)
+
+Chords use inline notation: `[Am]word [G]next`
 
 ## Contributing
 
-Contributions are welcome! You can:
+Contributions are welcome! To add a song:
 
-1. Add new songs (please ensure they are public domain or you have the rights)
-2. Fix lyrics or chords in existing songs
-3. Add translations to new languages
+1. Create a `.cho` file with the song in ChordPro format
+2. Name the file using lowercase with hyphens: `song-title.cho`
+3. Place it in the correct language/category folder
+4. Open a Pull Request
 
 ### Guidelines
 
-- Songs must be **public domain** (published before 1928) or **Creative Commons** licensed
-- Use **ChordPro inline format** for chords: `[G]lyrics [C]here`
+- Songs must be **public domain** (published before 1928) or **Creative Commons** licensed for the `hymns/himnos/hinos` folders
+- Popular/modern songs go in the `popular/` folder
 - Use **American chord notation** (C, D, E, F, G, A, B — not Do, Re, Mi)
-- Include correct section types: `verse`, `chorus`, `bridge`, `pre_chorus`, `intro`, `outro`, `interlude`, `tag`, `other`
-- One JSON file per language pack
+- Include `{title:}`, `{artist:}`, and `{key:}` directives at minimum
+- Use `{comment:}` to mark sections (Verse 1, Chorus, Bridge, etc.)
 
 ## License
 
-The songs in this repository are in the **public domain** or released under **Creative Commons** licenses. This repository itself is licensed under [MIT](LICENSE).
+The songs in the `hymns/himnos/hinos` folders are in the **public domain**. Songs in `popular/` folders may have their own copyright — contributors are responsible for ensuring they have the rights to share. This repository structure and tooling is licensed under [MIT](LICENSE).
 
 ## Disclaimer
 
-This is a community project. Contributors are responsible for ensuring they have the rights to share any content they add. If you believe any content infringes your copyright, please open an issue and we will remove it promptly.
+This is a community project. If you believe any content infringes your copyright, please open an issue and we will remove it promptly.
