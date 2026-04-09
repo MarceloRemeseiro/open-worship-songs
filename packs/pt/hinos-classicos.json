@@ -1,0 +1,802 @@
+{
+  "packId": "pt-hinos-classicos",
+  "version": "1.0.0",
+  "songs": [
+    {
+      "title": "Quão Grande És Tu",
+      "author": "Carl Boberg / Stuart K. Hine",
+      "originalKey": "A",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[A]Senhor meu Deus, quando eu mara[D]vilhado\n[E]Fico a pensar nas obras de Tuas [A]mãos\n[A]No firmamento vejo Tua [D]grandeza\n[E]E em tudo quanto fez Teu po[A]der",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[D]Então minh'alma [A]canta a Ti, Se[E]nhor\nQuão [Bm]grande és [E]Tu! Quão [A]grande és Tu!\n[D]Então minh'alma [A]canta a Ti, Se[E]nhor\nQuão [Bm]grande és [E]Tu! Quão [A]grande és Tu!",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[A]Se ao caminhar por campos [D]e florestas\n[E]Escuto as aves belas a [A]cantar\n[A]Se do alto monte eu [D]vejo lindas várzeas\n[E]E sinto a brisa leve a [A]soprar",
+          "position": 2
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[D]Então minh'alma [A]canta a Ti, Se[E]nhor\nQuão [Bm]grande és [E]Tu! Quão [A]grande és Tu!\n[D]Então minh'alma [A]canta a Ti, Se[E]nhor\nQuão [Bm]grande és [E]Tu! Quão [A]grande és Tu!",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[A]Quando relembro que o Se[D]nhor Jesus\n[E]Por mim sofreu e morreu na [A]cruz\n[A]Ali pendente pagou meus pe[D]cados\n[E]Meu coração então se pro[A]stra a Ti",
+          "position": 4
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[D]Então minh'alma [A]canta a Ti, Se[E]nhor\nQuão [Bm]grande és [E]Tu! Quão [A]grande és Tu!\n[D]Então minh'alma [A]canta a Ti, Se[E]nhor\nQuão [Bm]grande és [E]Tu! Quão [A]grande és Tu!",
+          "position": 5
+        },
+        {
+          "type": "verse",
+          "label": "Verso 4",
+          "content": "[A]Quando enfim Jesus vol[D]tar em glória\n[E]E ao lar celeste me con[A]duzir\n[A]Eu hei de proclamar Tua [D]grandeza\n[E]E adorar o meu Se[A]nhor",
+          "position": 6
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[D]Então minh'alma [A]canta a Ti, Se[E]nhor\nQuão [Bm]grande és [E]Tu! Quão [A]grande és Tu!\n[D]Então minh'alma [A]canta a Ti, Se[E]nhor\nQuão [Bm]grande és [E]Tu! Quão [A]grande és Tu!",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "title": "Sublime Graça",
+      "author": "John Newton",
+      "originalKey": "G",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[G]Sublime graça [G7]do Se[C]nhor!\n[G]Que a um in[Em]feliz sal[D]vou!\n[G]Eu cego [G7]fui, mas [C]vejo já!\n[G]Perdido [D7]ele me a[G]chou!",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[G]A graça me en[G7]sinou a [C]ter\n[G]Temor ao [Em]meu Se[D]nhor\n[G]E a graça [G7]fez meu [C]coração\n[G]Sentir [D7]o seu a[G]mor",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[G]Por muitos [G7]males e pe[C]rigos\n[G]Eu já [Em]pude pas[D]sar\n[G]A graça [G7]que me [C]trouxe aqui\n[G]Há de [D7]me conser[G]var",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verso 4",
+          "content": "[G]Quando es[G7]tivermos lá [C]no céu\n[G]Por dez [Em]mil anos [D]mil\n[G]Ainda te[G7]remos para [C]Deus\n[G]Louvor [D7]tão bom de [G]ouvir",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "Santo, Santo, Santo",
+      "author": "Reginald Heber / John B. Dykes",
+      "originalKey": "D",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[D]Santo! [G]Santo! [D]Santo! [A]Deus oni[D]potente!\n[Bm]Cedo de ma[F#m]nhã, canta[G]remos [A]Teu lou[D]vor\n[D]Santo! [G]Santo! [D]Santo! [A]Nosso Deus [D]triuno\n[Bm]És um [F#m]só Deus, [Em]excelso [A]Cria[D]dor",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[D]Santo! [G]Santo! [D]Santo! [A]Os anjos [D]Te adoram\n[Bm]Todos se [F#m]prostram [G]ante o [A]Teu tro[D]no a Ti\n[D]Que és, [G]que e[D]ras, [A]e que há [D]de vir\n[Bm]Deus oni[F#m]potente, [Em]justo e [A]bom Se[D]nhor",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[D]Santo! [G]Santo! [D]Santo! [A]Embora em [D]trevas\n[Bm]Nenhum olho [F#m]humano [G]Tua [A]glória [D]vê\n[D]Só Tu [G]és [D]Santo, [A]perfeito em [D]amor\n[Bm]Deus oni[F#m]potente [Em]que sem[A]pre se[D]rás",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verso 4",
+          "content": "[D]Santo! [G]Santo! [D]Santo! [A]Deus oni[D]potente!\n[Bm]Toda a cri[F#m]ação [G]Te exal[A]ta com [D]amor\n[D]Santo! [G]Santo! [D]Santo! [A]Justo e [D]compassivo\n[Bm]És um [F#m]só Deus, [Em]excelso [A]Cria[D]dor",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "Grande É a Tua Fidelidade",
+      "author": "Thomas O. Chisholm / William M. Runyan",
+      "originalKey": "D",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[D]Grande é a Tua fideli[G]dade,\n[D]Ó Deus e [A]Pai!\n[D]Não há sombra de mu[G]dança em [D]Ti\n[D]Tu não Te [Bm]mudas, Tua com[Em]paixão\n[A]Não tem [D]fim",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[G]Grande é a Tua fi[D]delidade!\n[G]Grande é a Tua fi[D]delidade!\n[Bm]Cada ma[Em]nhã as Tuas [A]mercês se re[D]novam\n[G]Grande é a [A]Tua fideli[D]dade!",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[D]Verão, inverno, tempo [G]de semear\n[D]Sol, lua e [A]estrelas no seu curso fiel\n[D]A natureza toda [G]manifes[D]ta\n[D]O Teu grande [Bm]amor e Tua fi[Em]deli[A]da[D]de",
+          "position": 2
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[G]Grande é a Tua fi[D]delidade!\n[G]Grande é a Tua fi[D]delidade!\n[Bm]Cada ma[Em]nhã as Tuas [A]mercês se re[D]novam\n[G]Grande é a [A]Tua fideli[D]dade!",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[D]Perdão dos pecados, [G]paz que perdura\n[D]Tua presença a me gui[A]ar e suster\n[D]Força pra hoje e cer[G]ta espe[D]rança\n[D]Tu me [Bm]dás bênçãos [Em]sem me[A]di[D]da",
+          "position": 4
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[G]Grande é a Tua fi[D]delidade!\n[G]Grande é a Tua fi[D]delidade!\n[Bm]Cada ma[Em]nhã as Tuas [A]mercês se re[D]novam\n[G]Grande é a [A]Tua fideli[D]dade!",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "A Deus Seja a Glória",
+      "author": "Fanny Crosby / William H. Doane",
+      "originalKey": "G",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[G]A Deus demos [C]glória, por [G]Seu grande a[D]mor\n[G]Pelo amado [C]Filho que por [G]nós mor[D]reu\n[G]E nos abriu a [C]porta do [G]céu de es[Em]plendor\n[Am]Ao sacrificar [D]Seu querido [G]Filho",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[G]Louvai ao Se[C]nhor! [G]Louvai ao Se[D]nhor!\n[Em]Ouça a [Am]terra a [G]voz do Sal[D]vador!\n[G]Louvai ao Se[C]nhor! [G]Louvai ao Se[D]nhor!\n[G]Povos e [C]nações, [D]dai glória ao Se[G]nhor!",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[G]Tão grande reden[C]ção nos [G]deu o Sal[D]vador\n[G]Cumprindo Sua pro[C]messa a [G]todo pe[D]cador\n[G]Pois quem nEle [C]crê a [G]vida eter[Em]na tem\n[Am]E ao Seu lar ce[D]leste um dia [G]vai",
+          "position": 2
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[G]Louvai ao Se[C]nhor! [G]Louvai ao Se[D]nhor!\n[Em]Ouça a [Am]terra a [G]voz do Sal[D]vador!\n[G]Louvai ao Se[C]nhor! [G]Louvai ao Se[D]nhor!\n[G]Povos e [C]nações, [D]dai glória ao Se[G]nhor!",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[G]Oh, quão perfei[C]to é o [G]gozo celes[D]tial\n[G]Quando pros[C]trados ante o [G]Reden[D]tor\n[G]Com o coração [C]pleno de [G]grati[Em]dão\n[Am]Elevaremos [D]nosso grande [G]amor",
+          "position": 4
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[G]Louvai ao Se[C]nhor! [G]Louvai ao Se[D]nhor!\n[Em]Ouça a [Am]terra a [G]voz do Sal[D]vador!\n[G]Louvai ao Se[C]nhor! [G]Louvai ao Se[D]nhor!\n[G]Povos e [C]nações, [D]dai glória ao Se[G]nhor!",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "Castelo Forte",
+      "author": "Martinho Lutero",
+      "originalKey": "C",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[C]Castelo [G]forte é [Am]nosso [G]Deus\n[Am]Espada e [Em]bom es[F]cu[C]do\n[C]Com Seu po[G]der de[Am]fende os [G]Seus\n[Am]Em todo [Em]trance [F]a[C]gudo\n[G]Com fúria [Am]singular, con[F]tra nós [C]Satanás\n[Am]Opera [Em]com malí[F]cia e ar[C]dor\n[Am]Pois de [Em]grande [F]poder [G]e de [C]engano atroz\nSe [Am]arma qual [G]não [C]há na terra igual",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[C]A nossa [G]força [Am]nada [G]faz\n[Am]Seríamos [Em]perdidos [F]lo[C]go\n[C]Mas por [G]nós en[Am]tra em [G]campo\n[Am]Quem Deus [Em]mesmo [F]de[C]legou\n[G]Quem é [Am]esse? Cristo [F]é o [C]Senhor\n[Am]Dos exér[Em]citos o [F]grande [C]General\n[Am]Sempre [Em]vence [F]na ba[G]talha o [C]Deus real\nSua [Am]vitória [G]é se[C]gura",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[C]Se nos qui[G]sessem de[Am]vorar [G]demônios\n[Am]Sem nú[Em]mero e [F]sem [C]fim\n[C]Não nos de[G]veríamos [Am]inquie[G]tar\n[Am]Pois Deus [Em]está por [F]nós [C]aqui\n[G]O Prín[Am]cipe do mal, [F]por mais [C]que espante\n[Am]Nenhum [Em]dano [F]pode [C]causar\n[Am]Pois seu [Em]juí[F]zo já [G]vem [C]vindo\nA [Am]Palavra o [G]derru[C]ba",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verso 4",
+          "content": "[C]Sim, que a Pa[G]lavra [Am]vence[G]rá\n[Am]A des[Em]peito [F]dos ini[C]migos\n[C]E nenhum [G]deles [Am]preva[G]lecerá\n[Am]O Espí[Em]rito [F]nos [C]guia\n[G]Que se [Am]vão riqueza, [F]honra e [C]poder\n[Am]E pa[Em]rentes [F]e ami[C]gos\n[Am]Que le[Em]vem [F]nosso [G]corpo, [C]bens e lar\nNos [Am]fica o [G]Rei dos [C]céus",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "Alegria Para o Mundo",
+      "author": "Isaac Watts / George F. Handel",
+      "originalKey": "D",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[D]Alegria para o [A]mundo!\n[D]O Se[G]nhor che[A]gou!\n[D]Deixe a [A]terra rece[Bm]ber seu [A]Rei!\n[D]Cada [A]coração [G]prepa[D]re\n[G]O lu[A]gar pra [D]Ele\nE o [G]céu e a [A]terra can[D]tem",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[D]Alegria para o [A]mundo!\n[D]O Sal[G]vador [A]reina!\n[D]Todos [A]os homens [Bm]cantem [A]já!\n[D]Os cam[A]pos e as [G]flores[D]tas\n[G]Montes [A]e pla[D]nícies\nRe[G]pitam [A]o canto [D]de amor",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[D]Não mais pre[A]valece\n[D]O pe[G]cado e a [A]dor\n[D]Nem os [A]espinhos [Bm]cobre[A]rão o chão\n[D]Ele [A]vem fazer [G]bên[D]çãos\n[G]Fluir [A]por on[D]de\nSeu [G]amor al[A]cança [D]toda nação",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verso 4",
+          "content": "[D]Ele domina o [A]mundo\n[D]Com [G]graça e [A]amor\n[D]E com ver[A]dade [Bm]prova [A]às nações\n[D]As gló[A]rias de [G]Sua jus[D]tiça\n[G]E as [A]mara[D]vilhas\nDo [G]Seu [A]eterno a[D]mor",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "Noite Feliz",
+      "author": "Joseph Mohr / Franz Gruber",
+      "originalKey": "A",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[A]Noite feliz, noite fe[E]liz\n[E]Ó Senhor, [E7]Deus de a[A]mor\n[D]Pobrezinho nasceu em Be[A]lém\n[D]Eis na lapa Jesus nosso [A]Bem\n[E]Dorme em paz, [E7]ó Je[A]sus\n[E]Dorme em paz, [E7]ó Je[A]sus",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[A]Noite feliz, noite fe[E]liz\n[E]Ó Senhor, [E7]Deus de a[A]mor\n[D]Resplandece a estrela da [A]paz\n[D]Ilumina o menino Je[A]sus\n[E]Que nos traz [E7]a sal[A]vação\n[E]Que nos traz [E7]a sal[A]vação",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[A]Noite feliz, noite fe[E]liz\n[E]Ó Senhor, [E7]Deus de a[A]mor\n[D]Os pastores os anjos e [A]o céu\n[D]Proclamaram a vinda de [A]Deus\n[E]Salvador [E7]nas al[A]turas\n[E]Salvador [E7]nas al[A]turas",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "title": "Ó Vem, Ó Vem, Emanuel",
+      "author": "Antífona Latina Séc. XII / Melodia Séc. XIII",
+      "originalKey": "D",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[D]Ó vem, ó [Bm]vem, Ema[Em]nuel!\n[A]Liberta o [D]povo de Is[A]rael\n[D]Que geme [Bm]em triste [Em]exílio e [A]dor\n[D]E espera o [Bm]grande Reden[A]tor",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Refrão",
+          "content": "[D]Dai gló[A]ria a [Bm]Deus, [A]Ema[D]nuel!\n[Em]Virá em [A]breve, ó [D]Israel!",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[D]Ó vem, Tu, [Bm]Vara de [Em]Jessé\n[A]Liberta os [D]Teus do poder in[A]fiel\n[D]Do fundo in[Bm]ferno faz [Em]voltar\n[A]E sobre o [D]abismo [Bm]triun[A]far",
+          "position": 2
+        },
+        {
+          "type": "chorus",
+          "label": "Refrão",
+          "content": "[D]Dai gló[A]ria a [Bm]Deus, [A]Ema[D]nuel!\n[Em]Virá em [A]breve, ó [D]Israel!",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[D]Ó vem, ó [Bm]vem, Tu, Au[Em]rora celestial!\n[A]Consola o [D]Teu povo fi[A]el\n[D]Afasta as [Bm]sombras da [Em]escuri[A]dão\n[D]E dá-nos [Bm]luz e consola[A]ção",
+          "position": 4
+        },
+        {
+          "type": "chorus",
+          "label": "Refrão",
+          "content": "[D]Dai gló[A]ria a [Bm]Deus, [A]Ema[D]nuel!\n[Em]Virá em [A]breve, ó [D]Israel!",
+          "position": 5
+        },
+        {
+          "type": "verse",
+          "label": "Verso 4",
+          "content": "[D]Ó vem, ó [Bm]Chave de [Em]Davi, vem!\n[A]E abre o [D]caminho do [A]Céu também\n[D]Fecha a en[Bm]trada ao [Em]mal e à [A]dor\n[D]E guia-nos [Bm]ao Teu es[A]plendor",
+          "position": 6
+        },
+        {
+          "type": "chorus",
+          "label": "Refrão",
+          "content": "[D]Dai gló[A]ria a [Bm]Deus, [A]Ema[D]nuel!\n[Em]Virá em [A]breve, ó [D]Israel!",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "title": "Rocha Eterna",
+      "author": "Augustus M. Toplady / Thomas Hastings",
+      "originalKey": "Bb",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[Bb]Rocha eterna, [Eb]meu Je[Bb]sus\n[F]Tu morreste [Bb]lá na cruz\n[Bb]Dá-me a[Eb]brigo e prote[Bb]ção\n[F]Junto ao Teu fiel co[Bb]ração",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[Bb]Nada trago [Eb]em minhas [Bb]mãos\n[F]Só me agarro [Bb]à Tua cruz\n[Bb]Nu, a [Eb]Ti venho bus[Bb]car\n[F]Veste-me, ó meu Je[Bb]sus",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[Bb]Nenhum mérito [Eb]eu [Bb]tenho\n[F]Nada posso a[Bb]presentar\n[Bb]Mas Teu [Eb]sangue me [Bb]limpou\n[F]Tua graça me sal[Bb]vou",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verso 4",
+          "content": "[Bb]Rocha eterna, [Eb]meu Je[Bb]sus\n[F]Tu morreste [Bb]lá na cruz\n[Bb]Quando [Eb]eu fechar os [Bb]olhos\n[F]Leva-me ao Teu es[Bb]plendor",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "Oh! Jesus Me Ama",
+      "author": "Anna B. Warner / William B. Bradbury",
+      "originalKey": "G",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[G]Eu sei que meu [C]Jesus me [G]ama\n[G]A Bíblia [D]assim me [G]diz\n[G]Os pequeninos [C]são jo[G]ias\n[G]Que fazem [D]Deus fe[G]liz",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[C]Sim, Cristo [G]me ama!\n[C]Sim, Cristo [G]me ama!\n[C]Sim, Cristo [G]me ama!\n[G]A Bíblia [D]assim me [G]diz!",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[G]Cristo Jesus [C]que está no [G]céu\n[G]Olha por [D]mim com [G]amor\n[G]E quando eu [C]oro Ele me [G]ouve\n[G]E me aben[D]çoa, Se[G]nhor",
+          "position": 2
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[C]Sim, Cristo [G]me ama!\n[C]Sim, Cristo [G]me ama!\n[C]Sim, Cristo [G]me ama!\n[G]A Bíblia [D]assim me [G]diz!",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[G]Cristo Jesus [C]por mim mor[G]reu\n[G]E o céu me [D]vai a[G]brir\n[G]E os meus pe[C]cados todos [G]Ele\n[G]Na cruz já [D]foi cum[G]prir",
+          "position": 4
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[C]Sim, Cristo [G]me ama!\n[C]Sim, Cristo [G]me ama!\n[C]Sim, Cristo [G]me ama!\n[G]A Bíblia [D]assim me [G]diz!",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "Mais Perto Quero Estar",
+      "author": "Sarah F. Adams / Lowell Mason",
+      "originalKey": "G",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[G]Mais perto [Dm]quero es[C]tar,\n[G]Meu Deus, [Em]de [D]Ti!\n[G]Inda que [Dm]seja a [C]dor\n[G]Que me [Em]una a [D]Ti!\n[G]Sempre hei [C]de supli[G]car:\n[Em]Mais [Am]perto [D]quero es[G]tar,\n[C]Mais [D]perto de [G]Ti!",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[G]Andando [Dm]triste a[C]qui\n[G]Na so[Em]li[D]dão,\n[G]Paz e des[Dm]canso a [C]mim\n[G]Teus bra[Em]ços [D]dão!\n[G]Sempre hei [C]de supli[G]car:\n[Em]Mais [Am]perto [D]quero es[G]tar,\n[C]Mais [D]perto de [G]Ti!",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[G]Por sobre o [Dm]mar a[C]zul\n[G]Do céu de [Em]a[D]nil,\n[G]Anjos a [Dm]me gui[C]ar\n[G]No Re[Em]ino [D]gentil\n[G]Sempre hei [C]de supli[G]car:\n[Em]Mais [Am]perto [D]quero es[G]tar,\n[C]Mais [D]perto de [G]Ti!",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verso 4",
+          "content": "[G]Minh'alma [Dm]canta[C]rá\n[G]A Ti, [Em]Se[D]nhor!\n[G]Inda nas [Dm]trevas [C]eu\n[G]Louvo o [Em]Re[D]dentor!\n[G]Sempre hei [C]de supli[G]car:\n[Em]Mais [Am]perto [D]quero es[G]tar,\n[C]Mais [D]perto de [G]Ti!",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "Assim Como Estou",
+      "author": "Charlotte Elliott / William B. Bradbury",
+      "originalKey": "C",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[C]Assim como es[G]tou, sem [C]nada a di[F]zer\n[C]Senhor, que por [G]mim vieste a mor[C]rer\n[Am]E me convi[F]daste a [G]Ti recor[C]rer\n[F]Bendito Je[G]sus, me [F]chego a [C]Ti",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[C]Assim como es[G]tou, sem de[C]mora ou va[F]cilar\n[C]Pra me liber[G]tar do mal e cu[C]rar\n[Am]A Ti, que me [F]queres [G]aceitar e a[C]mar\n[F]Bendito Je[G]sus, me [F]chego a [C]Ti",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[C]Assim como es[G]tou, per[C]dido, pe[F]cador\n[C]Tu tens o per[G]dão pra todo pe[C]cador\n[Am]Em Ti eu con[F]fio, [G]ó meu Sal[C]vador\n[F]Bendito Je[G]sus, me [F]chego a [C]Ti",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verso 4",
+          "content": "[C]Assim como es[G]tou, Teu a[C]mor vai mos[F]trar\n[C]Que todo obs[G]táculo pode ven[C]cer\n[Am]Sou Teu, só [F]Teu, [G]para sem[C]pre viver\n[F]Bendito Je[G]sus, me [F]chego a [C]Ti",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "Ó Cristãos, Avante!",
+      "author": "Sabine Baring-Gould / Arthur S. Sullivan",
+      "originalKey": "D",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[D]Ó cristãos, a[G]vante! [D]Sem temor mar[A]char!\n[D]Com a cruz de [G]Cristo [D]sempre a [A]nos gui[D]ar\n[D]Cristo, o Rei di[G]vino, [D]vai na frente [A]já\n[D]Contra o ini[G]migo [D]Ele nos con[A]du[D]zirá",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[G]Ó cristãos, a[D]vante!\n[Em]Sem temor [A]marchar!\n[D]Com a cruz de [G]Cristo\n[D]Sempre a [A]nos gui[D]ar!",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[D]Reinos pere[G]ceram, [D]tronos e na[A]ções\n[D]Mas a Igreja [G]de Cristo [D]firme [A]perma[D]nece\n[D]Portas do in[G]ferno [D]nunca vence[A]rão\n[D]Pois Cristo [G]mesmo [D]prometeu: [A]'Estou [D]convosco!'",
+          "position": 2
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[G]Ó cristãos, a[D]vante!\n[Em]Sem temor [A]marchar!\n[D]Com a cruz de [G]Cristo\n[D]Sempre a [A]nos gui[D]ar!",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[D]Somos todos [G]um em [D]nosso Salva[A]dor\n[D]Uma só espe[G]rança, [D]uma [A]só na[D]ção\n[D]Uma fé nos [G]une, [D]uma cari[A]dade\n[D]Um Senhor, um [G]Deus, um [D]só batis[A]mo [D]há",
+          "position": 4
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[G]Ó cristãos, a[D]vante!\n[Em]Sem temor [A]marchar!\n[D]Com a cruz de [G]Cristo\n[D]Sempre a [A]nos gui[D]ar!",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "Em Jesus Amigo Temos",
+      "author": "Joseph M. Scriven / Charles C. Converse",
+      "originalKey": "E",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[E]Em Jesus amigo [A]temos\n[E]Mais chegado [B7]que um ir[E]mão\n[E]Oh, que paz [A]perdemos sempre\n[E]Oh, que dor [B7]no cora[E]ção\n[A]Tudo porque [E]não levamos\n[A]Tudo a [E]Deus em ora[B7]ção\n[E]Tudo a [A]Deus em ora[E]ção",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[E]Tens provações [A]e cuidados?\n[E]Falta-te a [B7]consola[E]ção?\n[E]Leva tudo [A]ao bom Amigo\n[E]Ele te ou[B7]virá na [E]dor\n[A]Há de ser fiel [E]amigo\n[A]Ele pode [E]te aju[B7]dar\n[E]Leva tudo a [A]Deus em ora[E]ção",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[E]Fraco, cansado, [A]abatido\n[E]Segue a [B7]Ele em ora[E]ção\n[E]Os teus amigos [A]te desprezam?\n[E]Busca a [B7]Deus, teu Prote[E]tor\n[A]Nos Seus braços [E]tem refúgio\n[A]Ele te con[E]sola[B7]rá\n[E]Acharás em [A]Deus a [E]paz",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "title": "Bendita Segurança",
+      "author": "Fanny J. Crosby / Phoebe P. Knapp",
+      "originalKey": "C",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[C]Que segurança! [F]Sou de Je[C]sus!\n[C]Eu já des[G]fruto bên[C]çãos da luz!\n[C]Sei que herdeiro [F]sou de meu [C]Deus;\n[G]Ele me leva à [C]glória dos Céus!",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[F]Canta, minh'[C]alma!\n[G]Canta ao Se[C]nhor!\n[F]Rende-Lhe [C]sempre\n[G]Honra e lou[C]vor!",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[C]Sendo submisso [F]sempre ao [C]bem\n[C]Sinto os en[G]levos puros [C]do além\n[C]Anjos, descendo, [F]trazem do al[C]vor\n[G]Ecos da graça, [C]bênçãos do amor",
+          "position": 2
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[F]Canta, minh'[C]alma!\n[G]Canta ao Se[C]nhor!\n[F]Rende-Lhe [C]sempre\n[G]Honra e lou[C]vor!",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[C]Sempre vivendo [F]em Seu grande a[C]mor\n[C]Me rego[G]zijo em meu Sal[C]vador\n[C]Esperançoso, [F]vivo na [C]luz\n[G]Quanta bondade [C]tem meu Jesus!",
+          "position": 4
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[F]Canta, minh'[C]alma!\n[G]Canta ao Se[C]nhor!\n[F]Rende-Lhe [C]sempre\n[G]Honra e lou[C]vor!",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "Sou Feliz Com Jesus",
+      "author": "Horatio G. Spafford / Philip P. Bliss",
+      "originalKey": "C",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[C]Se paz a mais [Em]doce me [F]concedeu go[C]zar\n[C]Se dor a mais [Em]forte me [F]tiver de pro[C]var\n[Am]Em tudo [Em]sou fe[F]liz\nPois [G]Cristo meu Senhor me en[C]sinou a confiar",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[F]Sou feliz com [C]Jesus,\n[F]Sou feliz com [C]Jesus,\n[Am]Sou fe[Em]liz, [F]sou fe[G]liz com Je[C]sus!",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[C]Embora me [Em]assalte o [F]tentador cru[C]el\n[C]Seguro estou em [Em]Cristo, [F]meu amparo fi[C]el\n[Am]Pois Cris[Em]to já [F]venceu\n[G]E o sangue carmesim meus peca[C]dos cobriu",
+          "position": 2
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[F]Sou feliz com [C]Jesus,\n[F]Sou feliz com [C]Jesus,\n[Am]Sou fe[Em]liz, [F]sou fe[G]liz com Je[C]sus!",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[C]Vivendo es[Em]tou com [F]Cristo, com [C]Cristo morrerei\n[C]A trombeta so[Em]ando, de [F]morte sairei des[C]cendo\n[Am]Virá o [Em]meu Se[F]nhor\n[G]Assim o Seu amor pra mim provei[C]to será",
+          "position": 4
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[F]Sou feliz com [C]Jesus,\n[F]Sou feliz com [C]Jesus,\n[Am]Sou fe[Em]liz, [F]sou fe[G]liz com Je[C]sus!",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "Rude Cruz",
+      "author": "George Bennard",
+      "originalKey": "G",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[G]Rude cruz se er[G7]gueu,\n[C]Dela o dia fu[G]giu\n[G]Em sinal de ver[Em]gonha e de [Am]dor [D]\n[G]Mas eu amo essa [G7]cruz\n[C]Sobre a qual meu Je[G]sus\n[G]Deu a [Em]vida por [D]mim, peca[G]dor",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[D]Sim, eu [D7]amo a [G]mensa[G7]gem da [C]cruz\n[G]Até sofrer a minha af[D]lição\n[G]Eu me ape[G7]garei à [C]velha [Cm]cruz\n[G]E um [Em]dia ela [D]me dará glo[G]riosa coroação",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[G]Oh, a velha [G7]cruz\n[C]Tão desprezada en[G]tão\n[G]Tem para mim su[Em]blime atra[Am]ção [D]\n[G]Pois o cordeiro [G7]santo\n[C]Na cruz por mim pe[G]nou\n[G]Dando-me [Em]completa [D]reden[G]ção",
+          "position": 2
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[D]Sim, eu [D7]amo a [G]mensa[G7]gem da [C]cruz\n[G]Até sofrer a minha af[D]lição\n[G]Eu me ape[G7]garei à [C]velha [Cm]cruz\n[G]E um [Em]dia ela [D]me dará glo[G]riosa coroação",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[G]Nessa velha [G7]cruz,\n[C]Tão querida por [G]mim\n[G]Meu maior pra[Em]zer é contem[Am]plar [D]\n[G]Pois do mundo de [G7]dor\n[C]Me chamou meu Se[G]nhor\n[G]Para [Em]sempre com [D]Ele rei[G]nar",
+          "position": 4
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[D]Sim, eu [D7]amo a [G]mensa[G7]gem da [C]cruz\n[G]Até sofrer a minha af[D]lição\n[G]Eu me ape[G7]garei à [C]velha [Cm]cruz\n[G]E um [Em]dia ela [D]me dará glo[G]riosa coroação",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "No Jardim",
+      "author": "C. Austin Miles",
+      "originalKey": "C",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[C]Eu venho ao [F]jardim so[C]zinho\n[G]Quando o orvalho [G7]ainda [C]brilha\n[C]E a voz que [F]ouço, cai [C]no meu ouvido\n[G]É o Filho de [G7]Deus que [C]chama",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[G]E Ele anda co[G7]migo e [C]fala comigo\n[F]E me diz que eu [C]sou Seu querido\n[F]E a ale[C]gria que [Am]juntos com[Dm]partimos\n[C]Nenhum [G]outro ja[C]mais conheceu",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[C]Ele fala e o [F]som de [C]Sua voz\n[G]É tão doce que [G7]as aves ca[C]lam\n[C]E a melo[F]dia que [C]Ele me deu\n[G]No meu cora[G7]ção ressoa[C]rá",
+          "position": 2
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[G]E Ele anda co[G7]migo e [C]fala comigo\n[F]E me diz que eu [C]sou Seu querido\n[F]E a ale[C]gria que [Am]juntos com[Dm]partimos\n[C]Nenhum [G]outro ja[C]mais conheceu",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[C]Eu ficaria [F]no jar[C]dim com Ele\n[G]Embora a noite [G7]ao redor es[C]cureça\n[C]Mas Ele me [F]chama a [C]seguir em frente\n[G]Com a Sua [G7]voz de a[C]mor",
+          "position": 4
+        },
+        {
+          "type": "chorus",
+          "label": "Coro",
+          "content": "[G]E Ele anda co[G7]migo e [C]fala comigo\n[F]E me diz que eu [C]sou Seu querido\n[F]E a ale[C]gria que [Am]juntos com[Dm]partimos\n[C]Nenhum [G]outro ja[C]mais conheceu",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "O Exilado (Tão Longe de Minha Pátria)",
+      "author": "Justus Henry Nelson",
+      "originalKey": "D",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verso 1",
+          "content": "[D]Tão longe de minha [G]pátria\n[D]Tão longe de meus ir[A]mãos\n[D]Eu vivo tão triste e [G]sozinho\n[D]Suspiro por [A]meu Se[D]nhor",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Refrão",
+          "content": "[G]Mas eu sei que um [D]dia\nO Se[G]nhor vai me [D]chamar\n[G]Para a Sua [D]pátria\n[Em]Para sem[A]pre lá mo[D]rar",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verso 2",
+          "content": "[D]As riquezas desse [G]mundo\n[D]Não me podem conten[A]tar\n[D]Eu anseio pelo [G]dia\n[D]Em que [A]vou ao meu [D]lar",
+          "position": 2
+        },
+        {
+          "type": "chorus",
+          "label": "Refrão",
+          "content": "[G]Mas eu sei que um [D]dia\nO Se[G]nhor vai me [D]chamar\n[G]Para a Sua [D]pátria\n[Em]Para sem[A]pre lá mo[D]rar",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verso 3",
+          "content": "[D]Os prazeres desse [G]mundo\n[D]Não me podem satis[A]fazer\n[D]Só Jesus é minha ale[G]gria\n[D]Só nEle eu [A]quero vi[D]ver",
+          "position": 4
+        },
+        {
+          "type": "chorus",
+          "label": "Refrão",
+          "content": "[G]Mas eu sei que um [D]dia\nO Se[G]nhor vai me [D]chamar\n[G]Para a Sua [D]pátria\n[Em]Para sem[A]pre lá mo[D]rar",
+          "position": 5
+        },
+        {
+          "type": "verse",
+          "label": "Verso 4",
+          "content": "[D]Nas mansões celes[G]tiais\n[D]Eu vou um dia mo[A]rar\n[D]Com os santos e com [G]Cristo\n[D]Pra sem[A]pre ador[D]ar",
+          "position": 6
+        },
+        {
+          "type": "chorus",
+          "label": "Refrão",
+          "content": "[G]Mas eu sei que um [D]dia\nO Se[G]nhor vai me [D]chamar\n[G]Para a Sua [D]pátria\n[Em]Para sem[A]pre lá mo[D]rar",
+          "position": 7
+        }
+      ]
+    }
+  ]
+}
