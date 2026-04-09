@@ -1,0 +1,694 @@
+{
+  "packId": "en-classic-hymns",
+  "version": "1.0.0",
+  "songs": [
+    {
+      "title": "Amazing Grace",
+      "author": "John Newton",
+      "originalKey": "G",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "A[G]mazing [G7]grace, how [C]sweet the [G]sound,\nThat saved a wretch like [Em]me![D]\nI [G]once was [G7]lost, but [C]now I'm [G]found,\nWas blind, but [D7]now I [G]see.",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "'Twas [G]grace that [G7]taught my [C]heart to [G]fear,\nAnd grace my fears re[Em]lieved.[D]\nHow [G]precious [G7]did that [C]grace ap[G]pear\nThe hour I [D7]first be[G]lieved.",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "Through [G]many [G7]dangers, [C]toils and [G]snares,\nI have al[Em]ready [D]come.\n'Tis [G]grace hath [G7]brought me [C]safe thus [G]far,\nAnd grace will [D7]lead me [G]home.",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 4",
+          "content": "The [G]Lord hath [G7]promised [C]good to [G]me,\nHis word my hope se[Em]cures.[D]\nHe [G]will my [G7]shield and [C]portion [G]be\nAs long as [D7]life en[G]dures.",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verse 5",
+          "content": "When [G]we've been [G7]there ten [C]thousand [G]years,\nBright shining as the [Em]sun,[D]\nWe've [G]no less [G7]days to [C]sing God's [G]praise\nThan when we [D7]first be[G]gun.",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "How Great Thou Art",
+      "author": "Carl Boberg / Stuart K. Hine",
+      "originalKey": "G",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "O [G]Lord my [C]God, when I in [G]awesome wonder\nConsider [Am]all the [D]worlds Thy hands have [G]made,\nI see the [C]stars, I hear the [G]rolling thunder,\nThy power through[Am]out the [D]universe dis[G]played.",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Chorus",
+          "content": "Then sings my [G]soul, my [G7]Savior God, to [C]Thee:\nHow great Thou [G]art! How great Thou [D]art!\nThen sings my [G]soul, my [G7]Savior God, to [C]Thee:\nHow great Thou [G]art! [D]How great Thou [G]art!",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "When [G]through the [C]woods and forest [G]glades I wander\nAnd hear the [Am]birds sing [D]sweetly in the [G]trees,\nWhen I look [C]down from lofty [G]mountain grandeur\nAnd hear the [Am]brook and [D]feel the gentle [G]breeze.",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "And [G]when I [C]think that God, His [G]Son not sparing,\nSent Him to [Am]die, I [D]scarce can take it [G]in,\nThat on the [C]cross, my burden [G]gladly bearing,\nHe bled and [Am]died to [D]take away my [G]sin.",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verse 4",
+          "content": "When [G]Christ shall [C]come with shout of [G]acclamation\nAnd take me [Am]home, what [D]joy shall fill my [G]heart!\nThen I shall [C]bow in humble [G]adoration\nAnd there pro[Am]claim, my [D]God, how great Thou [G]art!",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "Holy Holy Holy",
+      "author": "Reginald Heber",
+      "originalKey": "D",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "[D]Holy, holy, [G]holy! [D]Lord God Al[A]mighty!\n[D]Early in the [G]morning our [A]song shall rise to [D]Thee.\n[D]Holy, holy, [G]holy! [D]Merciful and [Bm]mighty!\n[G]God in three [D]Persons, [A]blessed Trini[D]ty!",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "[D]Holy, holy, [G]holy! [D]All the saints a[A]dore Thee,\n[D]Casting down their [G]golden crowns a[A]round the glassy [D]sea;\n[D]Cherubim and [G]seraphim [D]falling down be[Bm]fore Thee,\n[G]Which wert and [D]art, and [A]evermore shalt [D]be.",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "[D]Holy, holy, [G]holy! [D]Though the darkness [A]hide Thee,\n[D]Though the eye of [G]sinful man Thy [A]glory may not [D]see.\n[D]Only Thou art [G]holy; [D]there is none be[Bm]side Thee\n[G]Perfect in [D]power, in [A]love, and puri[D]ty.",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 4",
+          "content": "[D]Holy, holy, [G]holy! [D]Lord God Al[A]mighty!\n[D]All Thy works shall [G]praise Thy name in [A]earth and sky and [D]sea.\n[D]Holy, holy, [G]holy! [D]Merciful and [Bm]mighty!\n[G]God in three [D]Persons, [A]blessed Trini[D]ty!",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "Great Is Thy Faithfulness",
+      "author": "Thomas O. Chisholm",
+      "originalKey": "D",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "[D]Great is Thy [G]faithfulness, [D]O God my [A]Father,\n[D]There is no [G]shadow of [A]turning with [D]Thee.\n[D]Thou changest [G]not, Thy com[Em]passions they [A]fail not;\n[G]As Thou hast [D]been Thou for[A]ever wilt [D]be.",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Chorus",
+          "content": "[D]Great is Thy [G]faithfulness! [D]Great is Thy [A]faithfulness!\n[D]Morning by [Bm]morning new [Em]mercies I [A]see.\n[D]All I have [G]needed Thy [Em]hand hath pro[A]vided;\n[G]Great is Thy [D]faithfulness, [A]Lord unto [D]me.",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "[D]Summer and [G]winter, and [D]springtime and [A]harvest,\n[D]Sun, moon and [G]stars in their [A]courses a[D]bove,\n[D]Join with all [G]nature in [Em]manifold [A]witness\n[G]To Thy great [D]faithfulness, [A]mercy and [D]love.",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "[D]Pardon for [G]sin and a [D]peace that en[A]dureth,\n[D]Thy own dear [G]presence to [A]cheer and to [D]guide.\n[D]Strength for to[G]day and bright [Em]hope for to[A]morrow,\n[G]Blessings all [D]mine, with ten [A]thousand be[D]side!",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "To God Be The Glory",
+      "author": "Fanny Crosby",
+      "originalKey": "G",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "To [G]God be the glory, great [D]things He has [G]done!\nSo [C]loved He the [G]world that He [A7]gave us His [D]Son,\nWho [G]yielded His life an a[D]tonement for [G]sin,\nAnd [C]opened the [G]life-gate that [D7]all may go [G]in.",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Chorus",
+          "content": "[G]Praise the Lord, [G7]praise the Lord, let the [C]earth hear His [G]voice!\nPraise the Lord, praise the Lord, let the [A7]people re[D]joice!\nO [G]come to the Father through [C]Jesus the [G]Son,\nAnd [C]give Him the [G]glory, great [D7]things He has [G]done.",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "O [G]perfect redemption, the [D]purchase of [G]blood,\nTo [C]every be[G]liever the [A7]promise of [D]God;\nThe [G]vilest offender who [D]truly be[G]lieves,\nThat [C]moment from [G]Jesus a [D7]pardon re[G]ceives.",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "Great [G]things He has taught us, great [D]things He has [G]done,\nAnd [C]great our re[G]joicing through [A7]Jesus the [D]Son;\nBut [G]purer, and higher, and [D]greater will [G]be\nOur [C]wonder, our [G]transport, when [D7]Jesus we [G]see.",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "A Mighty Fortress Is Our God",
+      "author": "Martin Luther",
+      "originalKey": "C",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "A [C]mighty [G]fortress [Am]is our [D7]God,\nA [Am]bulwark [Em]never [F]fail[C]ing;[Am][Dm][G7][C]\nOur [G]helper [Am]He a[D7]mid the [G]flood\nOf [Am]mortal [Em]ills pre[F]vail[C]ing.[Am][Dm][G7][C]\nFor [Am]still our [G]ancient [D7]foe\nDoth [C]seek to [G7]work us [C]woe;[F][E][Am]\nHis [E]craft and [Am]pow'r are [G]great,[C][D7][G]\nAnd [Dm]armed with [F]cruel [C]hate,[A][Dm][E]\nOn [Am]earth is [G7]not his [C]equal.[A][Dm][G7][C]",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "Did [C]we in [G]our own [Am]strength con[D7]fide,\nOur [Am]striving [Em]would be [F]los[C]ing,[Dm][G7][C]\nWere [G]not the [Am]right man [D7]on our [G]side,\nThe [Am]man of [Em]God's own [F]choos[C]ing.[Dm][G7][C]\nDost [Am]ask who [G]that may [D7]be?\n[C]Christ [G7]Jesus, [C]it is [F]He;[E][Am]\n[E]Lord [Am]Sabaoth [G]His [C]name,[D7][G]\nFrom [Dm]age to [F]age the [C]same,[A][Dm][E]\nAnd [Am]He must [G7]win the [C]battle.[Dm][G7][C]",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "And [C]though this [G]world with [Am]devils [D7]filled,\nShould [Am]threaten [Em]to un[F]do [C]us,[Dm][G7][C]\nWe [G]will not [Am]fear, for [D7]God hath [G]willed\nHis [Am]truth to [Em]triumph [F]through [C]us.[Dm][G7][C]\nThe [Am]prince of [G]darkness [D7]grim,\nWe [C]tremble [G7]not for [C]him;[F][E][Am]\nHis [E]rage we [Am]can en[G]dure,[C][D7][G]\nFor [Dm]lo, his [F]doom is [C]sure;[A][Dm][E]\nOne [Am]little [G7]word shall [C]fell him.[Dm][G7][C]",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 4",
+          "content": "That [C]word a[G]bove all [Am]earthly [D7]pow'rs,\nNo [Am]thanks to [Em]them, a[F]bid[C]eth;[Dm][G7][C]\nThe [G]Spirit [Am]and the [D7]gifts are [G]ours\nThrough [Am]Him who [Em]with us [F]sid[C]eth.[Dm][G7][C]\nLet [Am]goods and [G]kindred [D7]go,\nThis [C]mortal [G7]life al[C]so;[F][E][Am]\nThe [E]body [Am]they may [G]kill,[C][D7][G]\nGod's [Dm]truth a[F]bideth [C]still;[A][Dm][E]\nHis [Am]kingdom [G7]is for[C]ever.[Dm][G7][C]",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "Joy To The World",
+      "author": "Isaac Watts",
+      "originalKey": "D",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "[D]Joy to the world! The [A7]Lord is [D]come;\nLet [G]earth re[A7]ceive her [D]King;\nLet [D]every heart pre[D]pare Him room,\nAnd [D]heaven and nature [A7]sing,\nAnd [A7]heaven and nature [D]sing,\nAnd [D]heaven, and [G]heaven and [A7]nature [D]sing.",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "[D]Joy to the earth! The [A7]Savior [D]reigns;\nLet [G]men their [A7]songs em[D]ploy;\nWhile [D]fields and floods, rocks, hills and plains\nRe[D]peat the sounding [A7]joy,\nRe[A7]peat the sounding [D]joy,\nRe[D]peat, re[G]peat the [A7]sounding [D]joy.",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "No [D]more let sins and [A7]sorrows [D]grow,\nNor [G]thorns in[A7]fest the [D]ground;\nHe [D]comes to make His blessings flow\nFar [D]as the curse is [A7]found,\nFar [A7]as the curse is [D]found,\nFar [D]as, far [G]as the [A7]curse is [D]found.",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 4",
+          "content": "He [D]rules the world with [A7]truth and [D]grace,\nAnd [G]makes the [A7]nations [D]prove\nThe [D]glories of His righteousness,\nAnd [D]wonders of His [A7]love,\nAnd [A7]wonders of His [D]love,\nAnd [D]wonders, [G]wonders [A7]of His [D]love.",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "Silent Night",
+      "author": "Joseph Mohr / Franz Gruber",
+      "originalKey": "G",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "[G]Silent night, holy night,\n[D]All is calm, [D7]all is [G]bright.\n[C]Round yon virgin [G]mother and child,\n[C]Holy infant so [G]tender and mild,\n[D]Sleep in [D7]heavenly [G]peace,[Em]\n[G]Sleep in [D7]heavenly [G]peace.",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "[G]Silent night, holy night,\n[D]Shepherds quake [D7]at the [G]sight.\n[C]Glories stream from [G]heaven afar,\n[C]Heav'nly hosts sing [G]\"Alleluia!\"\n[D]Christ the [D7]Savior is [G]born,[Em]\n[G]Christ the [D7]Savior is [G]born.",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "[G]Silent night, holy night,\n[D]Son of God, [D7]love's pure [G]light.\n[C]Radiant beams from [G]Thy holy face,\n[C]With the dawn of re[G]deeming grace,\n[D]Jesus, [D7]Lord, at Thy [G]birth,[Em]\n[G]Jesus, [D7]Lord, at Thy [G]birth.",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "title": "O Come O Come Emmanuel",
+      "author": "Latin Hymn / John Mason Neale",
+      "originalKey": "Em",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "O [Em]come, O come, Em[Am]manu[D]el,\nAnd [G]ransom captive [C]Isra[Am]el,[Em]\nThat [Am]mourns in lonely [Em]exile [Bm]here,\nUn[Em]til the Son of [Am]God ap[D]pear.[Em]",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Chorus",
+          "content": "Re[D]joice! Re[G]joice! Em[C]man[Am]u[Em]el\nShall [Am]come to thee, O [Em]Isra[D]el.[Em]",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "O [Em]come, Thou Day-spring, [Am]come and [D]cheer\nOur [G]spirits by Thine [C]advent [Am]here;[Em]\nDis[Am]perse the gloomy [Em]clouds of [Bm]night,\nAnd [Em]death's dark shadows [Am]put to [D]flight.[Em]",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "O [Em]come, Thou Wisdom [Am]from on [D]high,\nAnd [G]order all things, [C]far and [Am]nigh;[Em]\nTo [Am]us the path of [Em]knowledge [Bm]show,\nAnd [Em]cause us in her [Am]ways to [D]go.[Em]",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verse 4",
+          "content": "O [Em]come, Desire of [Am]nations, [D]bind\nAll [G]peoples in one [C]heart and [Am]mind;[Em]\nBid [Am]envy, strife and [Em]quarrels [Bm]cease;\nFill [Em]the whole world with [Am]heaven's [D]peace.[Em]",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "Rock Of Ages",
+      "author": "Augustus Toplady",
+      "originalKey": "A",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "[A]Rock of Ages, [D]cleft for [A]me,\nLet me [E]hide myself in [A]Thee;\nLet the [E]water and the [A]blood,\nFrom Thy [E]wounded side which [A]flowed,\nBe of [D]sin the double [A]cure,\nSave from [E]wrath and make me [A]pure.",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "[A]Not the labors [D]of my [A]hands\nCan ful[E]fill Thy law's de[A]mands;\nCould my [E]zeal no respite [A]know,\nCould my [E]tears forever [A]flow,\nAll for [D]sin could not a[A]tone;\nThou must [E]save, and Thou a[A]lone.",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "[A]Nothing in my [D]hand I [A]bring,\nSimply [E]to Thy cross I [A]cling;\nNaked, [E]come to Thee for [A]dress;\nHelp[E]less, look to Thee for [A]grace;\nFoul, I [D]to the fountain [A]fly;\nWash me, [E]Savior, or I [A]die.",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 4",
+          "content": "[A]While I draw this [D]fleeting [A]breath,\nWhen mine [E]eyes shall close in [A]death,\nWhen I [E]rise to worlds un[A]known,\nAnd be[E]hold Thee on Thy [A]throne,\nRock of [D]Ages, cleft for [A]me,\nLet me [E]hide myself in [A]Thee.",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "Jesus Loves Me",
+      "author": "Anna Bartlett Warner",
+      "originalKey": "C",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "[C]Jesus loves me! This I know,\n[F]For the Bible [C]tells me so;\n[C]Little ones to Him belong;\n[F]They are weak, but [C]He is [G7]strong.[C]",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Chorus",
+          "content": "[C]Yes, Jesus [F]loves me!\n[C]Yes, Jesus [G]loves me!\n[C]Yes, Jesus [F]loves me!\nThe [C]Bible [G7]tells me [C]so.",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "[C]Jesus loves me! Loves me still,\n[F]Though I'm very [C]weak and ill;\nThat I [C]might from sin be free,\n[F]Bled and died up[C]on the [G7]tree.[C]",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "[C]Jesus loves me! He who died\n[F]Heaven's gate to [C]open wide;\nHe will [C]wash away my sin,\n[F]Let His little [C]child come [G7]in.[C]",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verse 4",
+          "content": "[C]Jesus loves me! He will stay\n[F]Close beside me [C]all the way;\nThou hast [C]bled and died for me,\n[F]I will hence[C]forth live for [G7]Thee.[C]",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "Nearer My God To Thee",
+      "author": "Sarah Flower Adams",
+      "originalKey": "G",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "[G]Nearer, my God, to [D7]Thee,\n[Em]Nearer to [C]Thee![G][D]\nE'en [G]though it be a [C]cross\nThat [G]raiseth [D7]me,[G]\n[G]Still all my song shall [C]be,\n[G]Nearer, my [D7]God, to [Em]Thee,[C]\n[G]Nearer, my [D7]God, to [G]Thee,\nNearer to [D7]Thee![G]",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "[G]Though like the wander[D7]er,\n[Em]The sun gone [C]down,[G][D]\n[G]Darkness be over [C]me,\nMy [G]rest a [D7]stone;[G]\n[G]Yet in my dreams I'd [C]be\n[G]Nearer, my [D7]God, to [Em]Thee,[C]\n[G]Nearer, my [D7]God, to [G]Thee,\nNearer to [D7]Thee![G]",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "[G]There let the way ap[D7]pear,\n[Em]Steps unto [C]heav'n;[G][D]\n[G]All that Thou sendest [C]me,\nIn [G]mercy [D7]giv'n;[G]\n[G]Angels to beckon [C]me\n[G]Nearer, my [D7]God, to [Em]Thee,[C]\n[G]Nearer, my [D7]God, to [G]Thee,\nNearer to [D7]Thee![G]",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 4",
+          "content": "[G]Then, with my waking [D7]thoughts\n[Em]Bright with Thy [C]praise,[G][D]\n[G]Out of my stony [C]griefs\n[G]Bethel I'll [D7]raise;[G]\n[G]So by my woes to [C]be\n[G]Nearer, my [D7]God, to [Em]Thee,[C]\n[G]Nearer, my [D7]God, to [G]Thee,\nNearer to [D7]Thee![G]",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verse 5",
+          "content": "[G]Or if on joyful [D7]wing,\n[Em]Cleaving the [C]sky,[G][D]\n[G]Sun, moon, and stars for[C]got,\n[G]Upward I [D7]fly,[G]\n[G]Still all my song shall [C]be,\n[G]Nearer, my [D7]God, to [Em]Thee,[C]\n[G]Nearer, my [D7]God, to [G]Thee,\nNearer to [D7]Thee![G]",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "Just As I Am",
+      "author": "Charlotte Elliott",
+      "originalKey": "D",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "[D]Just as I am, with[A7]out one [D]plea,\nBut [A7]that Thy [G]blood was shed for [D]me,\nAnd that Thou bidd'st me [G]come to Thee,\nO [D]Lamb of [A]God, I [D]come, I come.",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "[D]Just as I am, and [A7]waiting [D]not\nTo [A7]rid my [G]soul of one dark [D]blot,\nTo Thee whose blood can [G]cleanse each spot,\nO [D]Lamb of [A]God, I [D]come, I come.",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "[D]Just as I am, though [A7]tossed a[D]bout\nWith [A7]many a [G]conflict, many a [D]doubt,\nFightings and fears with[G]in, without,\nO [D]Lamb of [A]God, I [D]come, I come.",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 4",
+          "content": "[D]Just as I am, poor, [A7]wretched, [D]blind;\n[A7]Sight, [G]riches, healing [D]of the mind,\nYea, all I need in [G]Thee to find,\nO [D]Lamb of [A]God, I [D]come, I come.",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verse 5",
+          "content": "[D]Just as I am, Thou [A7]wilt re[D]ceive,\nWilt [A7]welcome, [G]pardon, cleanse, re[D]lieve;\nBecause Thy promise [G]I believe,\nO [D]Lamb of [A]God, I [D]come, I come.",
+          "position": 4
+        },
+        {
+          "type": "verse",
+          "label": "Verse 6",
+          "content": "[D]Just as I am, Thy [A7]love un[D]known\nHath [A7]broken [G]every barrier [D]down;\nNow, to be Thine, yea, [G]Thine alone,\nO [D]Lamb of [A]God, I [D]come, I come.",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "Onward Christian Soldiers",
+      "author": "Sabine Baring-Gould",
+      "originalKey": "G",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "[G]Onward, Christian [D]soldiers,\n[D7]Marching as to [G]war,\nWith the [Em]cross of [D]Jesus\n[A7]Going on be[D]fore!\n[G]Christ, the royal [C]Master,\n[G]Leads against the [D]foe;\n[G]Forward into [C]battle,\n[G]See His [D7]banners [G]go!",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Chorus",
+          "content": "[G]Onward, Christian [D]soldiers,\n[D7]Marching as to [G]war,\nWith the [C]cross of [G]Jesus\n[D]Going on be[G]fore!",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "[G]At the sign of [D]triumph\n[D7]Satan's host doth [G]flee;\nOn, then, [Em]Christian [D]soldiers,\n[A7]On to victo[D]ry!\n[G]Hell's foundations [C]quiver\n[G]At the shout of [D]praise;\n[G]Brothers, lift your [C]voices,\n[G]Loud your [D7]anthems [G]raise!",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "[G]Like a mighty [D]army\n[D7]Moves the Church of [G]God;\nBrothers, [Em]we are [D]treading\n[A7]Where the saints have [D]trod.\n[G]We are not di[C]vided,\n[G]All one body [D]we,\n[G]One in hope and [C]doctrine,\n[G]One in [D7]chari[G]ty.",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verse 4",
+          "content": "[G]Onward, then, ye [D]people,\n[D7]Join our happy [G]throng,\nBlend with [Em]ours your [D]voices\n[A7]In the triumph [D]song;\n[G]Glory, laud, and [C]honor,\n[G]Unto Christ the [D]King;\n[G]This through countless [C]ages\n[G]Men and [D7]angels [G]sing.",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "What A Friend We Have In Jesus",
+      "author": "Joseph M. Scriven",
+      "originalKey": "F",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "[F]What a friend we have in [Bb]Jesus,\n[F]All our sins and griefs to [C]bear!\n[F]What a privilege to [Bb]carry\n[F]Everything to [C]God in [F]prayer!\n[F]O what peace we often [Bb]forfeit,\n[F]O what needless pain we [C]bear,\n[F]All because we do not [Bb]carry\n[F]Everything to [C]God in [F]prayer.",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "[F]Have we trials and temp[Bb]tations?\n[F]Is there trouble any[C]where?\n[F]We should never be dis[Bb]couraged;\n[F]Take it to the [C]Lord in [F]prayer.\n[F]Can we find a friend so [Bb]faithful\n[F]Who will all our sorrows [C]share?\n[F]Jesus knows our every [Bb]weakness;\n[F]Take it to the [C]Lord in [F]prayer.",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "[F]Are we weak and heavy-[Bb]laden,\n[F]Cumbered with a load of [C]care?\n[F]Precious Savior, still our [Bb]refuge,\n[F]Take it to the [C]Lord in [F]prayer.\n[F]Do thy friends despise, for[Bb]sake thee?\n[F]Take it to the Lord in [C]prayer!\n[F]In His arms He'll take and [Bb]shield thee;\n[F]Thou wilt find a [C]solace [F]there.",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "title": "Blessed Assurance",
+      "author": "Fanny Crosby",
+      "originalKey": "G",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "[G]Blessed assurance, [C]Jesus is [G]mine!\nO what a [D]foretaste of [Em]glory di[D]vine!\n[G]Heir of sal[C]vation, [G]purchase of God,\n[Am]Born of His [G]Spirit, [D]washed in His [G]blood.",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Chorus",
+          "content": "[D]This is my [G]story, [C]this is my [G]song,\n[D]Praising my [Em]Savior [A]all the day [D]long;\n[G]This is my [C]story, [G]this is my song,\n[Am]Praising my [G]Savior [D]all the day [G]long.",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "[G]Perfect sub[C]mission, [G]perfect delight,\n[D]Visions of [Em]rapture now [D]burst on my sight;\n[G]Angels de[C]scending [G]bring from above\n[Am]Echoes of [G]mercy, [D]whispers of [G]love.",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "[G]Perfect sub[C]mission, [G]all is at rest;\n[D]I in my [Em]Savior am [D]happy and blest,\n[G]Watching and [C]waiting, [G]looking above,\n[Am]Filled with His [G]goodness, [D]lost in His [G]love.",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "It Is Well With My Soul",
+      "author": "Horatio G. Spafford",
+      "originalKey": "C",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "When [C]peace like a [Dm]river at[G]tendeth my [C]way,\nWhen [C]sorrows like [F]sea billows [G]roll;\nWhat[C]ever my [Am]lot, Thou hast [Dm]taught me to [G]say,\n\"It is [C]well, it is [G]well with my [C]soul.\"",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Chorus",
+          "content": "[C]It is [G]well ([Am]it is well)\nWith my [F]soul (with my [C]soul),\n[C]It is [F]well, it is [C]well [G]with my [C]soul.",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "Though [C]Satan should [Dm]buffet, though [G]trials should [C]come,\nLet [C]this blest as[F]surance con[G]trol,\nThat [C]Christ has re[Am]garded my [Dm]helpless es[G]tate,\nAnd hath [C]shed His own [G]blood for my [C]soul.",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "My [C]sin, O the [Dm]bliss of this [G]glorious [C]thought!\nMy [C]sin, not in [F]part, but the [G]whole,\nIs [C]nailed to the [Am]cross, and I [Dm]bear it no [G]more;\nPraise the [C]Lord, praise the [G]Lord, O my [C]soul!",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verse 4",
+          "content": "And [C]Lord, haste the [Dm]day when my [G]faith shall be [C]sight,\nThe [C]clouds be rolled [F]back as a [G]scroll;\nThe [C]trump shall re[Am]sound, and the [Dm]Lord shall de[G]scend;\nEven [C]so, it is [G]well with my [C]soul.",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "The Old Rugged Cross",
+      "author": "George Bennard",
+      "originalKey": "G",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "On a [G]hill far away stood an [G7]old rugged cross,\nThe [C]emblem of suff'ring and [G]shame;\nAnd I [G]love that old cross where the [G7]dearest and best\nFor a [D]world of lost sinners was [D7]slain.",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Chorus",
+          "content": "So I'll [G]cherish the [G7]old rugged [C]cross,[Cm]\nTill my [G]trophies at last I lay [D]down;[D7]\nI will [G]cling to the [G7]old rugged [C]cross,[Cm]\nAnd ex[G]change it some [D7]day for a [G]crown.",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "O that [G]old rugged cross, so de[G7]spised by the world,\nHas a [C]wondrous attraction for [G]me;\nFor the [G]dear Lamb of God left His [G7]glory above\nTo [D]bear it to dark Calva[D7]ry.",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "In the [G]old rugged cross, stained with [G7]blood so divine,\nA [C]wondrous beauty I [G]see;\nFor 'twas [G]on that old cross Jesus [G7]suffered and died,\nTo [D]pardon and sanctify [D7]me.",
+          "position": 3
+        },
+        {
+          "type": "verse",
+          "label": "Verse 4",
+          "content": "To the [G]old rugged cross I will [G7]ever be true,\nIts [C]shame and reproach gladly [G]bear;\nThen He'll [G]call me some day to my [G7]home far away,\nWhere His [D]glory forever I'll [D7]share.",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "In The Garden",
+      "author": "C. Austin Miles",
+      "originalKey": "G",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "I [G]come to the garden a[D]lone,\nWhile the [D7]dew is still on the [G]roses;\nAnd the [G]voice I hear, falling [Em]on my ear,\nThe [A7]Son of God dis[D]closes.[D7]",
+          "position": 0
+        },
+        {
+          "type": "chorus",
+          "label": "Chorus",
+          "content": "And He [D]walks with me, and He [D7]talks with me,\nAnd He [G]tells me I am His [G7]own;\nAnd the [C]joy we share as we [Cm]tarry there,\n[G]None other has [D7]ever [G]known.",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "He [G]speaks, and the sound of His [D]voice\nIs so [D7]sweet the birds hush their [G]singing,\nAnd the [G]melody that He [Em]gave to me\nWith[A7]in my heart is [D]ringing.[D7]",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "I'd [G]stay in the garden with [D]Him,\nThough the [D7]night around me be [G]falling,\nBut He [G]bids me go; through the [Em]voice of woe\nHis [A7]voice to me is [D]calling.[D7]",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "Be Thou My Vision",
+      "author": "Dallan Forgaill / Eleanor Hull",
+      "originalKey": "D",
+      "ccliNumber": "",
+      "sections": [
+        {
+          "type": "verse",
+          "label": "Verse 1",
+          "content": "[D]Be Thou my [G]Vision, O [D]Lord of my [A]heart;\n[G]Naught be all [A]else to me, [G]save that Thou [D]art.\n[G]Thou my best [D]thought, by [Bm]day or by [G]night,[A]\n[Bm]Waking or [G]sleeping, Thy [A]presence my [D]light.",
+          "position": 0
+        },
+        {
+          "type": "verse",
+          "label": "Verse 2",
+          "content": "[D]Be Thou my [G]Wisdom, and [D]Thou my true [A]Word;\n[G]I ever [A]with Thee and [G]Thou with [D]me, Lord.\n[G]Thou my great [D]Father, I [Bm]Thy true [G]son;[A]\n[Bm]Thou in me [G]dwelling, and [A]I with Thee [D]one.",
+          "position": 1
+        },
+        {
+          "type": "verse",
+          "label": "Verse 3",
+          "content": "[D]Riches I [G]heed not, nor [D]man's empty [A]praise,\n[G]Thou mine in[A]heritance, [G]now and [D]always.\n[G]Thou and Thou [D]only, [Bm]first in my [G]heart,[A]\n[Bm]High King of [G]Heaven, my [A]treasure Thou [D]art.",
+          "position": 2
+        },
+        {
+          "type": "verse",
+          "label": "Verse 4",
+          "content": "[D]High King of [G]Heaven, my [D]victory [A]won,\n[G]May I reach [A]heaven's joys, O [G]bright heav'n's [D]Sun!\n[G]Heart of my [D]own heart, what[Bm]ever be[G]fall,[A]\n[Bm]Still be my [G]Vision, O [A]Ruler of [D]all.",
+          "position": 3
+        }
+      ]
+    }
+  ]
+}

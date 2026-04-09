@@ -1,0 +1,28 @@
+{
+  "packs": [
+    {
+      "id": "es-himnos-clasicos",
+      "name": "Himnos Clásicos",
+      "description": "Himnos tradicionales de la iglesia en español",
+      "language": "es",
+      "file": "packs/es/himnos-clasicos.json",
+      "icon": "📖"
+    },
+    {
+      "id": "en-classic-hymns",
+      "name": "Classic Hymns",
+      "description": "Traditional church hymns in English",
+      "language": "en",
+      "file": "packs/en/classic-hymns.json",
+      "icon": "📖"
+    },
+    {
+      "id": "pt-hinos-classicos",
+      "name": "Hinos Clássicos",
+      "description": "Hinos tradicionais da igreja em português",
+      "language": "pt",
+      "file": "packs/pt/hinos-classicos.json",
+      "icon": "📖"
+    }
+  ]
+}
