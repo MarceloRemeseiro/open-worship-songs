@@ -34,19 +34,18 @@
   "key": "Eb",
   "sections": 5,
   "lyric_lines": 20,
-  "chords": 8,
+  "chords": 63,
   "issues": [
-   "sin-artist",
-   "acorde-en-medio-de-palabra",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "C",
+   "Ab",
+   "Bb7",
    "Eb"
   ],
   "glued": 0,
-  "midword": 1
+  "midword": 0
  },
  {
   "path": "es/himnos/agnus-dei.cho",
@@ -127,15 +126,15 @@
   "key": "C",
   "sections": 6,
   "lyric_lines": 24,
-  "chords": 8,
+  "chords": 66,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
    "C",
-   "G"
+   "F",
+   "G7"
   ],
   "glued": 0,
   "midword": 0
@@ -147,13 +146,12 @@
   "key": "Eb",
   "sections": 3,
   "lyric_lines": 15,
-  "chords": 6,
-  "issues": [
-   "pocos-acordes"
-  ],
+  "chords": 31,
+  "issues": [],
   "bad_tokens": [],
   "chord_set": [
-   "Bb",
+   "Ab",
+   "Bb7",
    "Eb"
   ],
   "glued": 0,
@@ -254,26 +252,25 @@
   "key": "Bb",
   "sections": 5,
   "lyric_lines": 20,
-  "chords": 8,
+  "chords": 53,
   "issues": [
-   "sin-artist",
-   "acorde-en-medio-de-palabra",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
    "Bb",
-   "G"
+   "Eb",
+   "F7"
   ],
   "glued": 0,
-  "midword": 1
+  "midword": 0
  },
  {
   "path": "es/himnos/arde-mi-ser.cho",
   "title": "Arde Mi Ser",
   "artist": "Generación 12",
   "key": "Eb",
-  "sections": 5,
+  "sections": 4,
   "lyric_lines": 11,
   "chords": 44,
   "issues": [
@@ -397,15 +394,16 @@
   "key": "Db",
   "sections": 4,
   "lyric_lines": 16,
-  "chords": 6,
+  "chords": 43,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "C",
-   "Db"
+   "Ab7",
+   "Db",
+   "Eb7",
+   "Gb"
   ],
   "glued": 0,
   "midword": 0
@@ -543,15 +541,15 @@
   "key": "Eb",
   "sections": 4,
   "lyric_lines": 21,
-  "chords": 6,
+  "chords": 47,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "Eb",
-   "F"
+   "Ab",
+   "Bb7",
+   "Eb"
   ],
   "glued": 0,
   "midword": 0
@@ -658,7 +656,7 @@
   "key": "D",
   "sections": 1,
   "lyric_lines": 4,
-  "chords": 13,
+  "chords": 12,
   "issues": [
    "sin-artist"
   ],
@@ -682,15 +680,15 @@
   "key": "Ab",
   "sections": 4,
   "lyric_lines": 16,
-  "chords": 6,
+  "chords": 44,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
    "Ab",
-   "F"
+   "Db",
+   "Eb7"
   ],
   "glued": 0,
   "midword": 0
@@ -726,15 +724,15 @@
   "key": "Ab",
   "sections": 5,
   "lyric_lines": 28,
-  "chords": 8,
+  "chords": 51,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
    "Ab",
-   "F"
+   "Db",
+   "Eb7"
   ],
   "glued": 0,
   "midword": 0
@@ -746,15 +744,15 @@
   "key": "Bb",
   "sections": 4,
   "lyric_lines": 16,
-  "chords": 6,
+  "chords": 44,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
    "Bb",
-   "G"
+   "Eb",
+   "F7"
   ],
   "glued": 0,
   "midword": 0
@@ -923,15 +921,19 @@
   "key": "G",
   "sections": 4,
   "lyric_lines": 16,
-  "chords": 6,
+  "chords": 52,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "Ab",
-   "G"
+   "A7",
+   "C",
+   "Cm",
+   "D",
+   "D7",
+   "G",
+   "G7"
   ],
   "glued": 0,
   "midword": 0
@@ -1097,19 +1099,18 @@
  {
   "path": "es/himnos/el-mundo-no-es-mi-hogar.cho",
   "title": "El mundo no es mi hogar",
-  "artist": null,
+  "artist": "Albert E. Brumley",
   "key": "F",
   "sections": 4,
   "lyric_lines": 20,
-  "chords": 6,
-  "issues": [
-   "sin-artist",
-   "pocos-acordes"
-  ],
+  "chords": 32,
+  "issues": [],
   "bad_tokens": [],
   "chord_set": [
+   "Bb",
+   "C7",
    "F",
-   "G"
+   "F7"
   ],
   "glued": 0,
   "midword": 0
@@ -1213,15 +1214,15 @@
   "key": "C",
   "sections": 4,
   "lyric_lines": 22,
-  "chords": 6,
+  "chords": 42,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
    "C",
-   "D"
+   "F",
+   "G7"
   ],
   "glued": 0,
   "midword": 0
@@ -1315,13 +1316,14 @@
   "key": "G",
   "sections": 6,
   "lyric_lines": 24,
-  "chords": 6,
+  "chords": 66,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
+   "C",
+   "D7",
    "G"
   ],
   "glued": 0,
@@ -1334,15 +1336,15 @@
   "key": "Bb",
   "sections": 4,
   "lyric_lines": 16,
-  "chords": 6,
+  "chords": 44,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
    "Bb",
-   "G"
+   "Eb",
+   "F7"
   ],
   "glued": 0,
   "midword": 0
@@ -1563,15 +1565,15 @@
   "key": "Eb",
   "sections": 5,
   "lyric_lines": 20,
-  "chords": 8,
+  "chords": 55,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "Eb",
-   "G"
+   "Ab",
+   "Bb7",
+   "Eb"
   ],
   "glued": 0,
   "midword": 0
@@ -1606,15 +1608,15 @@
   "key": "C",
   "sections": 4,
   "lyric_lines": 28,
-  "chords": 8,
+  "chords": 64,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
    "C",
-   "D"
+   "F",
+   "G7"
   ],
   "glued": 0,
   "midword": 0
@@ -1626,15 +1628,15 @@
   "key": "Ab",
   "sections": 5,
   "lyric_lines": 20,
-  "chords": 8,
+  "chords": 55,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
    "Ab",
-   "Eb"
+   "Db",
+   "Eb7"
   ],
   "glued": 0,
   "midword": 0
@@ -1738,15 +1740,15 @@
   "key": "Bb",
   "sections": 4,
   "lyric_lines": 16,
-  "chords": 6,
+  "chords": 44,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
    "Bb",
-   "G"
+   "Eb",
+   "F7"
   ],
   "glued": 0,
   "midword": 0
@@ -1758,15 +1760,15 @@
   "key": "Eb",
   "sections": 4,
   "lyric_lines": 20,
-  "chords": 8,
+  "chords": 48,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "Eb",
-   "F"
+   "Ab",
+   "Bb7",
+   "Eb"
   ],
   "glued": 0,
   "midword": 0
@@ -1802,13 +1804,14 @@
   "key": "Eb",
   "sections": 4,
   "lyric_lines": 12,
-  "chords": 6,
+  "chords": 31,
   "issues": [
    "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "C",
+   "Ab",
+   "Bb7",
    "Eb"
   ],
   "glued": 0,
@@ -1864,13 +1867,14 @@
   "key": "Eb",
   "sections": 3,
   "lyric_lines": 12,
-  "chords": 6,
+  "chords": 33,
   "issues": [
    "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "C",
+   "Ab",
+   "Bb7",
    "Eb"
   ],
   "glued": 0,
@@ -1898,23 +1902,26 @@
  {
   "path": "es/himnos/maravillosa-gracia.cho",
   "title": "Maravillosa gracia",
-  "artist": null,
+  "artist": "Haldor Lillenas (1918); trad. W. Roberto Adell",
   "key": "Db",
   "sections": 4,
   "lyric_lines": 25,
-  "chords": 6,
+  "chords": 68,
   "issues": [
-   "sin-artist",
-   "acorde-en-medio-de-palabra",
-   "pocos-acordes"
+   "acorde-en-medio-de-palabra"
   ],
   "bad_tokens": [],
   "chord_set": [
+   "Ab7",
+   "Bb7",
    "Db",
-   "G"
+   "Db7",
+   "Eb7",
+   "Ebm",
+   "Gb"
   ],
   "glued": 0,
-  "midword": 3
+  "midword": 5
  },
  {
   "path": "es/himnos/mas-de-jesus-quiero-aprender.cho",
@@ -1923,15 +1930,15 @@
   "key": "Ab",
   "sections": 5,
   "lyric_lines": 20,
-  "chords": 8,
+  "chords": 54,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
    "Ab",
-   "F"
+   "Db",
+   "Eb7"
   ],
   "glued": 0,
   "midword": 0
@@ -2097,13 +2104,14 @@
   "key": "Eb",
   "sections": 4,
   "lyric_lines": 12,
-  "chords": 8,
+  "chords": 32,
   "issues": [
    "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "C",
+   "Ab",
+   "Bb7",
    "Eb"
   ],
   "glued": 0,
@@ -2111,23 +2119,24 @@
  },
  {
   "path": "es/himnos/oh-amor-de-dios-su-inmensidad.cho",
-  "title": "Oh, amor de Dios!, su inmensidad",
-  "artist": null,
+  "title": "¡Oh, amor de Dios! su inmensidad",
+  "artist": "Frederick M. Lehman (1917)",
   "key": "Eb",
   "sections": 4,
   "lyric_lines": 29,
-  "chords": 6,
+  "chords": 66,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "acorde-en-medio-de-palabra"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "C",
-   "Eb"
+   "Ab",
+   "Bb7",
+   "Eb",
+   "Eb7"
   ],
   "glued": 0,
-  "midword": 0
+  "midword": 9
  },
  {
   "path": "es/himnos/oh-dios-eterno-tu-misericordia.cho",
@@ -2310,14 +2319,15 @@
   "key": "Bb",
   "sections": 3,
   "lyric_lines": 12,
-  "chords": 6,
+  "chords": 33,
   "issues": [
    "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
    "Bb",
-   "D"
+   "Eb",
+   "F7"
   ],
   "glued": 0,
   "midword": 0
@@ -2329,14 +2339,14 @@
   "key": "G",
   "sections": 4,
   "lyric_lines": 17,
-  "chords": 6,
+  "chords": 45,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "F",
+   "C",
+   "D7",
    "G"
   ],
   "glued": 0,
@@ -2371,19 +2381,18 @@
   "key": "Bb",
   "sections": 5,
   "lyric_lines": 20,
-  "chords": 8,
+  "chords": 55,
   "issues": [
-   "sin-artist",
-   "acorde-en-medio-de-palabra",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
    "Bb",
-   "G"
+   "Eb",
+   "F7"
   ],
   "glued": 0,
-  "midword": 1
+  "midword": 0
  },
  {
   "path": "es/himnos/quien-rompe-el-poder-del-pecado.cho",
@@ -2414,15 +2423,15 @@
   "key": "Bb",
   "sections": 4,
   "lyric_lines": 16,
-  "chords": 6,
+  "chords": 44,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
    "Bb",
-   "G"
+   "Eb",
+   "F7"
   ],
   "glued": 0,
   "midword": 0
@@ -2542,7 +2551,7 @@
   "key": "Em",
   "sections": 1,
   "lyric_lines": 17,
-  "chords": 48,
+  "chords": 47,
   "issues": [
    "sin-artist",
    "acorde-antes-de-espacio",
@@ -2728,19 +2737,18 @@
   "key": "F",
   "sections": 3,
   "lyric_lines": 24,
-  "chords": 6,
+  "chords": 63,
   "issues": [
-   "sin-artist",
-   "acorde-en-medio-de-palabra",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "F",
-   "G"
+   "Bb",
+   "C7",
+   "F"
   ],
   "glued": 0,
-  "midword": 1
+  "midword": 0
  },
  {
   "path": "es/himnos/sublime-gracia-del-senor.cho",
@@ -2749,17 +2757,20 @@
   "key": "F",
   "sections": 4,
   "lyric_lines": 16,
-  "chords": 8,
+  "chords": 52,
   "issues": [
    "acorde-en-medio-de-palabra"
   ],
   "bad_tokens": [],
   "chord_set": [
+   "Bb",
+   "C7",
+   "Dm",
    "F",
-   "G"
+   "F7"
   ],
   "glued": 0,
-  "midword": 1
+  "midword": 3
  },
  {
   "path": "es/himnos/ta-amo-dios.cho",
@@ -2816,13 +2827,14 @@
   "key": "Eb",
   "sections": 4,
   "lyric_lines": 16,
-  "chords": 8,
+  "chords": 44,
   "issues": [
    "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "C",
+   "Ab",
+   "Bb7",
    "Eb"
   ],
   "glued": 0,
@@ -2835,14 +2847,15 @@
   "key": "Eb",
   "sections": 3,
   "lyric_lines": 12,
-  "chords": 6,
+  "chords": 27,
   "issues": [
    "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "Eb",
-   "F"
+   "Ab",
+   "Bb7",
+   "Eb"
   ],
   "glued": 0,
   "midword": 0
@@ -2904,18 +2917,19 @@
   "key": "F",
   "sections": 4,
   "lyric_lines": 20,
-  "chords": 6,
+  "chords": 53,
   "issues": [
    "sin-artist",
-   "pocos-acordes"
+   "acorde-en-medio-de-palabra"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "F",
-   "G"
+   "Bb",
+   "C7",
+   "F"
   ],
   "glued": 0,
-  "midword": 0
+  "midword": 1
  },
  {
   "path": "es/himnos/todo-el-mundo-ha-de-saber.cho",
@@ -2951,17 +2965,20 @@
   "key": "Eb",
   "sections": 4,
   "lyric_lines": 16,
-  "chords": 8,
+  "chords": 48,
   "issues": [
-   "sin-artist"
+   "sin-artist",
+   "acorde-en-medio-de-palabra"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "C",
+   "Ab",
+   "Bb7",
+   "Cm",
    "Eb"
   ],
   "glued": 0,
-  "midword": 0
+  "midword": 1
  },
  {
   "path": "es/himnos/tu-amor-es-la-llama.cho",
@@ -2986,23 +3003,23 @@
  {
   "path": "es/himnos/tu-dejaste-tu-trono.cho",
   "title": "Tú dejaste tu trono",
-  "artist": null,
+  "artist": "Emily E. S. Elliott (1864); música: Timothy R. Matthews",
   "key": "F",
   "sections": 6,
   "lyric_lines": 34,
-  "chords": 10,
+  "chords": 79,
   "issues": [
-   "sin-artist",
-   "acorde-en-medio-de-palabra",
-   "pocos-acordes"
+   "acorde-en-medio-de-palabra"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "C",
-   "F"
+   "Bb",
+   "C7",
+   "F",
+   "G7"
   ],
   "glued": 0,
-  "midword": 3
+  "midword": 9
  },
  {
   "path": "es/himnos/tu-eres-mi-respirar.cho",
@@ -3134,15 +3151,15 @@
   "key": "Eb",
   "sections": 4,
   "lyric_lines": 21,
-  "chords": 6,
+  "chords": 47,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "Eb",
-   "F"
+   "Ab",
+   "Bb7",
+   "Eb"
   ],
   "glued": 0,
   "midword": 0
@@ -3154,15 +3171,15 @@
   "key": "Eb",
   "sections": 4,
   "lyric_lines": 22,
-  "chords": 6,
+  "chords": 44,
   "issues": [
-   "sin-artist",
-   "pocos-acordes"
+   "sin-artist"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "Eb",
-   "F"
+   "Ab",
+   "Bb7",
+   "Eb"
   ],
   "glued": 0,
   "midword": 0
@@ -3174,17 +3191,18 @@
   "key": "Eb",
   "sections": 5,
   "lyric_lines": 20,
-  "chords": 8,
+  "chords": 53,
   "issues": [
    "sin-artist",
-   "pocos-acordes"
+   "acorde-antes-de-espacio"
   ],
   "bad_tokens": [],
   "chord_set": [
-   "Eb",
-   "G"
+   "Ab",
+   "Bb7",
+   "Eb"
   ],
-  "glued": 0,
+  "glued": 1,
   "midword": 0
  },
  {
@@ -4033,7 +4051,7 @@
   "key": "Em",
   "sections": 8,
   "lyric_lines": 26,
-  "chords": 95,
+  "chords": 91,
   "issues": [
    "sin-artist",
    "acorde-antes-de-espacio",
@@ -4058,7 +4076,7 @@
   "title": "Caerán",
   "artist": "Nathanael y Giovanna Nater",
   "key": "C",
-  "sections": 15,
+  "sections": 11,
   "lyric_lines": 46,
   "chords": 95,
   "issues": [
@@ -4083,7 +4101,7 @@
   "key": "Fm",
   "sections": 6,
   "lyric_lines": 26,
-  "chords": 67,
+  "chords": 64,
   "issues": [
    "acorde-antes-de-espacio"
   ],
@@ -4756,7 +4774,7 @@
   "title": "Derramo El Perfume",
   "artist": "MonteSanto",
   "key": "Am",
-  "sections": 4,
+  "sections": 3,
   "lyric_lines": 46,
   "chords": 87,
   "issues": [],
@@ -4802,7 +4820,7 @@
   "key": "D",
   "sections": 2,
   "lyric_lines": 16,
-  "chords": 54,
+  "chords": 53,
   "issues": [
    "sin-artist",
    "acorde-en-medio-de-palabra"
@@ -5247,7 +5265,7 @@
   "key": "G",
   "sections": 4,
   "lyric_lines": 16,
-  "chords": 60,
+  "chords": 57,
   "issues": [
    "sin-artist",
    "acorde-antes-de-espacio",
@@ -5299,7 +5317,7 @@
   "key": "Em",
   "sections": 3,
   "lyric_lines": 7,
-  "chords": 22,
+  "chords": 21,
   "issues": [
    "acorde-antes-de-espacio",
    "acorde-en-medio-de-palabra"
@@ -5833,7 +5851,7 @@
   "key": "Am",
   "sections": 4,
   "lyric_lines": 16,
-  "chords": 54,
+  "chords": 50,
   "issues": [
    "sin-artist",
    "acorde-antes-de-espacio",
@@ -5882,7 +5900,7 @@
   "key": "Am",
   "sections": 3,
   "lyric_lines": 12,
-  "chords": 63,
+  "chords": 60,
   "issues": [
    "sin-artist",
    "acorde-antes-de-espacio",
@@ -6227,7 +6245,7 @@
   "key": "C",
   "sections": 6,
   "lyric_lines": 42,
-  "chords": 109,
+  "chords": 108,
   "issues": [
    "acorde-antes-de-espacio"
   ],
@@ -6278,7 +6296,7 @@
   "title": "Inigualable",
   "artist": "Abner Himely",
   "key": "Am",
-  "sections": 7,
+  "sections": 6,
   "lyric_lines": 24,
   "chords": 30,
   "issues": [],
@@ -6471,7 +6489,7 @@
   "key": "A",
   "sections": 3,
   "lyric_lines": 24,
-  "chords": 49,
+  "chords": 48,
   "issues": [
    "acorde-antes-de-espacio"
   ],
@@ -7027,7 +7045,7 @@
   "key": "G",
   "sections": 2,
   "lyric_lines": 11,
-  "chords": 51,
+  "chords": 50,
   "issues": [
    "acorde-antes-de-espacio",
    "acorde-en-medio-de-palabra"
@@ -7434,7 +7452,7 @@
   "title": "Preciosa Sangre",
   "artist": null,
   "key": "Am",
-  "sections": 5,
+  "sections": 4,
   "lyric_lines": 19,
   "chords": 49,
   "issues": [
@@ -8091,7 +8109,7 @@
   "key": "Am",
   "sections": 3,
   "lyric_lines": 26,
-  "chords": 70,
+  "chords": 69,
   "issues": [
    "sin-artist",
    "acorde-antes-de-espacio",
@@ -8129,7 +8147,7 @@
   "key": "Am",
   "sections": 3,
   "lyric_lines": 26,
-  "chords": 70,
+  "chords": 69,
   "issues": [
    "acorde-antes-de-espacio",
    "acorde-en-medio-de-palabra"
@@ -8513,7 +8531,7 @@
   "key": "A",
   "sections": 3,
   "lyric_lines": 24,
-  "chords": 49,
+  "chords": 48,
   "issues": [
    "acorde-antes-de-espacio"
   ],
@@ -8771,7 +8789,7 @@
   "key": "C",
   "sections": 5,
   "lyric_lines": 9,
-  "chords": 57,
+  "chords": 55,
   "issues": [
    "acorde-antes-de-espacio",
    "acorde-en-medio-de-palabra"
@@ -8984,7 +9002,7 @@
   "key": "C",
   "sections": 5,
   "lyric_lines": 9,
-  "chords": 57,
+  "chords": 55,
   "issues": [
    "sin-artist",
    "acorde-antes-de-espacio",
@@ -9262,7 +9280,7 @@
   "key": "D",
   "sections": 2,
   "lyric_lines": 8,
-  "chords": 27,
+  "chords": 26,
   "issues": [
    "acorde-antes-de-espacio",
    "acorde-en-medio-de-palabra"
@@ -9438,7 +9456,7 @@
   "title": "Blessed Assurance (My King Is Coming)",
   "artist": "Matthew West",
   "key": "C",
-  "sections": 7,
+  "sections": 6,
   "lyric_lines": 11,
   "chords": 54,
   "issues": [
@@ -9604,7 +9622,7 @@
   "key": "F",
   "sections": 2,
   "lyric_lines": 8,
-  "chords": 18,
+  "chords": 16,
   "issues": [],
   "bad_tokens": [],
   "chord_set": [
@@ -9667,7 +9685,7 @@
   "title": "Joy To The World",
   "artist": "Unknown",
   "key": "C",
-  "sections": 6,
+  "sections": 4,
   "lyric_lines": 18,
   "chords": 57,
   "issues": [
@@ -10836,7 +10854,7 @@
   "key": "E",
   "sections": 8,
   "lyric_lines": 24,
-  "chords": 58,
+  "chords": 57,
   "issues": [
    "acorde-antes-de-espacio"
   ],
@@ -10956,7 +10974,7 @@
   "key": "G",
   "sections": 4,
   "lyric_lines": 26,
-  "chords": 34,
+  "chords": 33,
   "issues": [
    "acorde-antes-de-espacio"
   ],
@@ -11610,7 +11628,7 @@
   "key": "F#",
   "sections": 3,
   "lyric_lines": 13,
-  "chords": 43,
+  "chords": 42,
   "issues": [
    "acorde-antes-de-espacio"
   ],
@@ -12091,7 +12109,7 @@
   "title": "Covered",
   "artist": "Planetshakers",
   "key": "G",
-  "sections": 7,
+  "sections": 5,
   "lyric_lines": 24,
   "chords": 49,
   "issues": [],
@@ -12116,7 +12134,7 @@
   "key": "C#m",
   "sections": 7,
   "lyric_lines": 27,
-  "chords": 78,
+  "chords": 73,
   "issues": [
    "acorde-antes-de-espacio",
    "acorde-en-medio-de-palabra"
@@ -12609,7 +12627,7 @@
   "key": "G",
   "sections": 5,
   "lyric_lines": 18,
-  "chords": 52,
+  "chords": 50,
   "issues": [],
   "bad_tokens": [],
   "chord_set": [
@@ -12721,7 +12739,7 @@
   "key": "B",
   "sections": 4,
   "lyric_lines": 26,
-  "chords": 74,
+  "chords": 73,
   "issues": [
    "acorde-en-medio-de-palabra"
   ],
@@ -12735,7 +12753,7 @@
    "G#m7"
   ],
   "glued": 0,
-  "midword": 7
+  "midword": 6
  },
  {
   "path": "en/popular/everywhere-i-go.cho",
@@ -13203,7 +13221,7 @@
   "key": "C",
   "sections": 6,
   "lyric_lines": 20,
-  "chords": 61,
+  "chords": 60,
   "issues": [],
   "bad_tokens": [],
   "chord_set": [
@@ -13692,7 +13710,7 @@
   "key": "Am",
   "sections": 4,
   "lyric_lines": 23,
-  "chords": 29,
+  "chords": 28,
   "issues": [],
   "bad_tokens": [],
   "chord_set": [
@@ -13847,7 +13865,7 @@
   "title": "Goodby Yesterday",
   "artist": "Elevation Rythem",
   "key": "Ab",
-  "sections": 10,
+  "sections": 9,
   "lyric_lines": 48,
   "chords": 101,
   "issues": [],
@@ -13940,7 +13958,7 @@
   "key": "B",
   "sections": 11,
   "lyric_lines": 40,
-  "chords": 62,
+  "chords": 60,
   "issues": [],
   "bad_tokens": [],
   "chord_set": [
@@ -13983,7 +14001,7 @@
   "key": "B",
   "sections": 8,
   "lyric_lines": 30,
-  "chords": 60,
+  "chords": 56,
   "issues": [
    "acorde-antes-de-espacio"
   ],
@@ -14296,7 +14314,7 @@
   "title": "Heal Our Land / Come and Move",
   "artist": "Maverick City Music",
   "key": "Db",
-  "sections": 12,
+  "sections": 10,
   "lyric_lines": 35,
   "chords": 58,
   "issues": [],
@@ -14383,7 +14401,7 @@
   "title": "Hello My Name Is",
   "artist": "Matthew West",
   "key": "G",
-  "sections": 10,
+  "sections": 9,
   "lyric_lines": 21,
   "chords": 46,
   "issues": [
@@ -14473,7 +14491,7 @@
   "key": "D",
   "sections": 6,
   "lyric_lines": 16,
-  "chords": 30,
+  "chords": 29,
   "issues": [],
   "bad_tokens": [],
   "chord_set": [
@@ -14682,7 +14700,7 @@
   "title": "Holy and Anointed One, There is none like You, I love you Lord",
   "artist": "Various",
   "key": "G",
-  "sections": 6,
+  "sections": 5,
   "lyric_lines": 22,
   "chords": 66,
   "issues": [
@@ -15022,7 +15040,7 @@
   "key": "D",
   "sections": 1,
   "lyric_lines": 12,
-  "chords": 84,
+  "chords": 83,
   "issues": [
    "acorde-antes-de-espacio",
    "acorde-en-medio-de-palabra"
@@ -15222,7 +15240,7 @@
   "key": "C",
   "sections": 2,
   "lyric_lines": 14,
-  "chords": 37,
+  "chords": 36,
   "issues": [],
   "bad_tokens": [],
   "chord_set": [
@@ -15292,7 +15310,7 @@
   "key": "G",
   "sections": 3,
   "lyric_lines": 12,
-  "chords": 18,
+  "chords": 15,
   "issues": [],
   "bad_tokens": [],
   "chord_set": [
@@ -16517,7 +16535,7 @@
   "title": "I’ve Got the Joy",
   "artist": null,
   "key": "A",
-  "sections": 6,
+  "sections": 5,
   "lyric_lines": 20,
   "chords": 42,
   "issues": [
@@ -16861,7 +16879,7 @@
   "title": "Joyful Joyful",
   "artist": "Laura Hackett",
   "key": "C",
-  "sections": 12,
+  "sections": 10,
   "lyric_lines": 36,
   "chords": 87,
   "issues": [
@@ -16893,7 +16911,7 @@
   "title": "Just Be Held",
   "artist": "Casting Crowns",
   "key": "Am",
-  "sections": 6,
+  "sections": 5,
   "lyric_lines": 18,
   "chords": 64,
   "issues": [],
@@ -17808,7 +17826,7 @@
   "title": "Magnificent Obsession",
   "artist": "Laura Hackett",
   "key": "Cm",
-  "sections": 7,
+  "sections": 6,
   "lyric_lines": 13,
   "chords": 26,
   "issues": [],
@@ -17928,7 +17946,7 @@
   "title": "Marvelous Light",
   "artist": "Charlie Hall",
   "key": "A",
-  "sections": 6,
+  "sections": 5,
   "lyric_lines": 12,
   "chords": 27,
   "issues": [],
@@ -18102,7 +18120,7 @@
   "title": "Miracles",
   "artist": "Michael W. Smith",
   "key": "D",
-  "sections": 7,
+  "sections": 6,
   "lyric_lines": 20,
   "chords": 34,
   "issues": [],
@@ -18262,7 +18280,7 @@
   "title": "My Heart is Yours",
   "artist": "Kristian Stanfill",
   "key": "E",
-  "sections": 7,
+  "sections": 6,
   "lyric_lines": 25,
   "chords": 62,
   "issues": [],
@@ -18425,7 +18443,7 @@
   "key": "Gm",
   "sections": 7,
   "lyric_lines": 20,
-  "chords": 80,
+  "chords": 79,
   "issues": [
    "acorde-antes-de-espacio",
    "acorde-en-medio-de-palabra"
@@ -18765,7 +18783,7 @@
   "title": "O Come, O Come Emmanuel",
   "artist": "Unknown / David Crowder",
   "key": "Am",
-  "sections": 7,
+  "sections": 6,
   "lyric_lines": 27,
   "chords": 74,
   "issues": [
@@ -19421,7 +19439,7 @@
   "key": "E",
   "sections": 10,
   "lyric_lines": 41,
-  "chords": 64,
+  "chords": 63,
   "issues": [
    "acorde-antes-de-espacio"
   ],
@@ -19636,7 +19654,7 @@
   "key": "D",
   "sections": 7,
   "lyric_lines": 32,
-  "chords": 81,
+  "chords": 80,
   "issues": [
    "acorde-antes-de-espacio",
    "acorde-en-medio-de-palabra"
@@ -19664,7 +19682,7 @@
   "key": "Em",
   "sections": 5,
   "lyric_lines": 12,
-  "chords": 39,
+  "chords": 38,
   "issues": [],
   "bad_tokens": [],
   "chord_set": [
@@ -19994,7 +20012,7 @@
   "key": "Db",
   "sections": 9,
   "lyric_lines": 43,
-  "chords": 102,
+  "chords": 97,
   "issues": [
    "acorde-antes-de-espacio",
    "acorde-en-medio-de-palabra"
@@ -20047,7 +20065,7 @@
   "key": "A",
   "sections": 5,
   "lyric_lines": 25,
-  "chords": 60,
+  "chords": 58,
   "issues": [
    "acorde-antes-de-espacio"
   ],
@@ -20485,7 +20503,7 @@
   "key": "Eb",
   "sections": 1,
   "lyric_lines": 8,
-  "chords": 26,
+  "chords": 23,
   "issues": [],
   "bad_tokens": [],
   "chord_set": [
@@ -20911,7 +20929,7 @@
   "key": "D",
   "sections": 7,
   "lyric_lines": 29,
-  "chords": 84,
+  "chords": 82,
   "issues": [],
   "bad_tokens": [],
   "chord_set": [
@@ -21071,7 +21089,7 @@
   "key": "C",
   "sections": 6,
   "lyric_lines": 17,
-  "chords": 54,
+  "chords": 53,
   "issues": [
    "acorde-antes-de-espacio",
    "acorde-en-medio-de-palabra"
@@ -21321,7 +21339,7 @@
   "key": "Em",
   "sections": 4,
   "lyric_lines": 14,
-  "chords": 31,
+  "chords": 30,
   "issues": [],
   "bad_tokens": [],
   "chord_set": [
@@ -21618,7 +21636,7 @@
   "key": "G",
   "sections": 5,
   "lyric_lines": 17,
-  "chords": 66,
+  "chords": 65,
   "issues": [
    "acorde-antes-de-espacio"
   ],
@@ -21685,7 +21703,7 @@
   "title": "This I Believe (The Creed)",
   "artist": "Hillsong Worship",
   "key": "C",
-  "sections": 8,
+  "sections": 7,
   "lyric_lines": 31,
   "chords": 81,
   "issues": [
@@ -21711,7 +21729,7 @@
   "key": "C",
   "sections": 12,
   "lyric_lines": 42,
-  "chords": 81,
+  "chords": 76,
   "issues": [
    "acorde-antes-de-espacio",
    "acorde-en-medio-de-palabra"
@@ -21740,7 +21758,7 @@
   "title": "This is the Day, River of Life,",
   "artist": null,
   "key": "G",
-  "sections": 4,
+  "sections": 3,
   "lyric_lines": 23,
   "chords": 56,
   "issues": [
@@ -21803,7 +21821,7 @@
   "key": "E",
   "sections": 3,
   "lyric_lines": 16,
-  "chords": 38,
+  "chords": 37,
   "issues": [],
   "bad_tokens": [],
   "chord_set": [
@@ -21931,7 +21949,7 @@
   "key": "A",
   "sections": 3,
   "lyric_lines": 14,
-  "chords": 69,
+  "chords": 68,
   "issues": [
    "acorde-antes-de-espacio"
   ],
@@ -22059,7 +22077,7 @@
   "key": "F",
   "sections": 3,
   "lyric_lines": 14,
-  "chords": 61,
+  "chords": 45,
   "issues": [],
   "bad_tokens": [],
   "chord_set": [
@@ -22192,7 +22210,7 @@
   "key": "G",
   "sections": 3,
   "lyric_lines": 8,
-  "chords": 20,
+  "chords": 19,
   "issues": [],
   "bad_tokens": [],
   "chord_set": [
@@ -23098,7 +23116,7 @@
   "key": "D",
   "sections": 4,
   "lyric_lines": 24,
-  "chords": 59,
+  "chords": 58,
   "issues": [
    "acorde-antes-de-espacio",
    "acorde-en-medio-de-palabra"
@@ -23802,7 +23820,7 @@
   "key": "G#m",
   "sections": 4,
   "lyric_lines": 14,
-  "chords": 67,
+  "chords": 64,
   "issues": [
    "acorde-en-medio-de-palabra"
   ],
@@ -23814,7 +23832,7 @@
    "G#m"
   ],
   "glued": 0,
-  "midword": 2
+  "midword": 1
  },
  {
   "path": "en/popular/your-love-awakens-me.cho",
@@ -24230,7 +24248,7 @@
   "key": "A",
   "sections": 8,
   "lyric_lines": 23,
-  "chords": 117,
+  "chords": 114,
   "issues": [
    "acorde-antes-de-espacio",
    "acorde-en-medio-de-palabra"
@@ -24405,7 +24423,7 @@
   "key": "F",
   "sections": 5,
   "lyric_lines": 17,
-  "chords": 62,
+  "chords": 61,
   "issues": [
    "sin-artist",
    "acorde-antes-de-espacio",
@@ -24458,7 +24476,7 @@
   "key": "A",
   "sections": 8,
   "lyric_lines": 23,
-  "chords": 117,
+  "chords": 114,
   "issues": [
    "acorde-antes-de-espacio",
    "acorde-en-medio-de-palabra"
@@ -24941,7 +24959,7 @@
   "key": "F",
   "sections": 11,
   "lyric_lines": 33,
-  "chords": 126,
+  "chords": 125,
   "issues": [
    "sin-artist",
    "acorde-antes-de-espacio",

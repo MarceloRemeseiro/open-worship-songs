@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cancionero — Worshi Community Songs</title>
+<link rel="stylesheet" href="/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎵</text></svg>">
+</head>
+<body>
+
+<aside id="sidebar">
+  <header class="side-head">
+    <h1>Cancionero</h1>
+    <p id="totalCount" class="muted">cargando…</p>
+    <div class="search-wrap">
+      <input id="search" type="search" placeholder="Buscar título o artista…" autocomplete="off" spellcheck="false">
+    </div>
+  </header>
+  <nav id="tree" class="tree"><p class="muted pad">Cargando catálogo…</p></nav>
+</aside>
+
+<div id="overlay"></div>
+
+<main id="main">
+  <div id="toolbar" class="toolbar">
+    <button id="menuBtn" class="btn icon-btn" title="Menú" aria-label="Menú">☰</button>
+    <div class="tb-group">
+      <button id="chordsBtn" class="btn" title="Mostrar / ocultar acordes">Acordes: ON</button>
+    </div>
+    <div class="tb-group transpose">
+      <button id="downBtn" class="btn icon-btn" title="Bajar un semitono">−</button>
+      <span id="transposeLabel" class="pill">0</span>
+      <button id="upBtn" class="btn icon-btn" title="Subir un semitono">+</button>
+    </div>
+    <div class="tb-group">
+      <button id="fontDownBtn" class="btn icon-btn" title="Reducir texto">A−</button>
+      <button id="fontUpBtn" class="btn icon-btn" title="Aumentar texto">A+</button>
+    </div>
+    <div class="spacer"></div>
+    <button id="printBtn" class="btn" title="Imprimir">Imprimir</button>
+  </div>
+
+  <div id="content" class="content">
+    <div class="empty">
+      <div class="empty-inner">
+        <div class="empty-note">🎵</div>
+        <h2>Elige una canción</h2>
+        <p class="muted">Navega por idioma y categoría en el panel lateral, o usa el buscador.</p>
+      </div>
+    </div>
+  </div>
+</main>
+
+<script src="/app.js"></script>
+</body>
+</html>

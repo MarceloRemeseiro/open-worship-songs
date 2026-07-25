@@ -6,6 +6,11 @@ export interface SongSection {
   isInstrumental: boolean;
 }
 
+export interface MetaEntry {
+  name: string;
+  value: string;
+}
+
 export interface SongMeta {
   id: string;
   title: string;
@@ -15,6 +20,11 @@ export interface SongMeta {
   lang: string;
   category: string;
   filename: string;
+  /** Optional extras parsed from the .cho directives. */
+  capo?: number | null;
+  ccli?: string | null;
+  time?: string | null;
+  meta?: MetaEntry[];
 }
 
 export interface SongFull extends SongMeta {

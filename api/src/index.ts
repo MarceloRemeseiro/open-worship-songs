@@ -3,6 +3,7 @@ import { cors } from "hono/cors";
 import { serve } from "@hono/node-server";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
+import { readFileSync, existsSync, statSync } from "node:fs";
 import { loadCatalog, searchSongs, getSong } from "./catalog.js";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -39,7 +40,43 @@ app.get("/stats", (c) => {
   return c.json({ total: catalog.size, byLanguage: stats });
 });
 
+// ---------------------------------------------------------------------------
+// Static frontend (web/) — served straight from disk so edits are picked up
+// without a build step or a second dev server.
+// ---------------------------------------------------------------------------
+const WEB_ROOT = path.join(REPO_ROOT, "web");
+
+const MIME: Record<string, string> = {
+  ".html": "text/html; charset=utf-8",
+  ".js": "text/javascript; charset=utf-8",
+  ".css": "text/css; charset=utf-8",
+  ".json": "application/json; charset=utf-8",
+  ".svg": "image/svg+xml",
+  ".ico": "image/x-icon",
+  ".png": "image/png",
+  ".woff2": "font/woff2",
+};
+
+function serveFile(c: any, relPath: string) {
+  const target = path.resolve(WEB_ROOT, "." + path.posix.resolve("/", relPath));
+  if (!target.startsWith(WEB_ROOT)) return c.text("Forbidden", 403);
+  if (!existsSync(target) || !statSync(target).isFile()) return null;
+  const ext = path.extname(target).toLowerCase();
+  return c.body(readFileSync(target), 200, {
+    "Content-Type": MIME[ext] ?? "application/octet-stream",
+    "Cache-Control": "no-cache",
+  });
+}
+
+app.get("/", (c) => serveFile(c, "index.html") ?? c.text("web/index.html not found", 404));
+
+app.get("/*", (c) => {
+  const res = serveFile(c, new URL(c.req.url).pathname);
+  return res ?? c.text("Not found", 404);
+});
+
 const port = Number(process.env.PORT) || 3001;
-console.log(`Server starting on port ${port}...`);
-serve({ fetch: app.fetch, port });
-console.log(`Open Worship Songs API running at http://localhost:${port}`);
+const hostname = process.env.HOST || "0.0.0.0";
+console.log(`Server starting on ${hostname}:${port}...`);
+serve({ fetch: app.fetch, port, hostname });
+console.log(`Open Worship Songs running at http://localhost:${port}`);

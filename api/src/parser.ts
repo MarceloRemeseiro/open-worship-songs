@@ -1,4 +1,4 @@
-import type { SongSection } from "./types.js";
+import type { MetaEntry, SongSection } from "./types.js";
 
 function detectSectionType(label: string): SongSection["type"] {
   const lower = label.toLowerCase();
@@ -32,6 +32,10 @@ export interface ParsedSong {
   artist: string | null;
   key: string;
   tempo: number | null;
+  capo: number | null;
+  ccli: string | null;
+  time: string | null;
+  meta: MetaEntry[];
   sections: SongSection[];
 }
 
@@ -42,6 +46,10 @@ export function parseChoFile(content: string, filename: string): ParsedSong {
   let artist: string | null = null;
   let key: string | null = null;
   let tempo: number | null = null;
+  let capo: number | null = null;
+  let ccli: string | null = null;
+  let time: string | null = null;
+  const meta: MetaEntry[] = [];
 
   const sections: SongSection[] = [];
   let currentLabel: string | null = null;
@@ -82,12 +90,28 @@ export function parseChoFile(content: string, filename: string): ParsedSong {
       } else if (dir === "tempo") {
         const parsed = parseInt(value.trim(), 10);
         if (!isNaN(parsed)) tempo = parsed;
+      } else if (dir === "capo") {
+        const parsed = parseInt(value.trim(), 10);
+        if (!isNaN(parsed)) capo = parsed;
+      } else if (dir === "ccli") {
+        ccli = value.trim() || null;
+      } else if (dir === "time") {
+        time = value.trim() || null;
+      } else if (dir === "meta") {
+        // "{meta: scripture Psalm 19:1}" -> { name: "scripture", value: "Psalm 19:1" }
+        const raw = value.trim();
+        const spaceIdx = raw.indexOf(" ");
+        if (spaceIdx > 0) {
+          meta.push({ name: raw.slice(0, spaceIdx), value: raw.slice(spaceIdx + 1).trim() });
+        } else if (raw) {
+          meta.push({ name: raw, value: "" });
+        }
       } else if (dir === "comment" || dir === "c") {
         // New section starts
         flushSection();
         currentLabel = value.trim();
       }
-      // Ignore {ccli:} and other unknown directives
+      // Ignore other unknown directives
       continue;
     }
 
@@ -115,6 +139,10 @@ export function parseChoFile(content: string, filename: string): ParsedSong {
     artist: artist || null,
     key: key || "C",
     tempo,
+    capo,
+    ccli,
+    time,
+    meta,
     sections,
   };
 }
