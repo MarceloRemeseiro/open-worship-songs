@@ -1,5 +1,6 @@
 {title: Fierce}
 {artist: Jesus Culture}
+{key: D}
 
 {comment: Intro}
 [G2] /// | [D] /// | [Bm] /// | [A] ///
@@ -7,7 +8,7 @@
 {comment: Verse 1}
 Before I [G2]call, before I ever [D]cry
 You answer [Bm]me from where the thunder [Asus]hides
-I can't out[G2]run, this heart I'm tethered [D]to
+I can't [G2]outrun, this heart I'm tethered [D]to
 When every [Bm]step I collide with [Asus]You
 
 {comment: Chorus}
@@ -21,12 +22,10 @@ Like a hurricane [D]that I can't escape
 {comment: Verse 2}
 You cannot [G2]fail, the only thing I've [D]found
 is through it [Bm]all You never let me [Asus]down
-You don't hold [G2]back, relentless in pur[D]suit
+You don't hold [G2]back, relentless in [D]pursuit
 at every [Bm]turn I come face to face with [Asus]You
 
-Chorus
-
-Interlude
+{comment: Interlude}
 
 [G2] /// | //// | [Bm7] /// | [A] ///
 
@@ -34,4 +33,4 @@ Interlude
 [G2]You chase me down, You seek me out
 [Bm7]How could I be [A]lost when You have called me found?
 
-Chorus
+{comment: Chorus}

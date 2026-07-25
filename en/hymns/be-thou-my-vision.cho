@@ -1,7 +1,7 @@
 {title: Be Thou My Vision}
 {artist: Citizens & Saints}
-
-CANT Key: D
+{key: G}
+{meta: cant_key D}
 
 {comment: Verse 1}
 [G]Be thou my vision [D]O  [C]Lord of my heart
@@ -14,7 +14,7 @@ CANT Key: D
 
 {comment: Verse 2}
 [G]Riches I heed not, [D]nor [C]mans empty praise
-[D]Thou my inheri[G]tance, [C]now and always
+[D]Thou my [G]inheritance, [C]now and always
 [Em]Thou and Thou only [G]are [C]first in my heart
 [G]High King of heaven, [D]my [C]treasure thou art
 

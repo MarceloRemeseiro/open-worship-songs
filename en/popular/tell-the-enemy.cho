@@ -1,7 +1,7 @@
 {title: Tell The Enemy}
 {artist: Vintage Worship}
-
-Tempo: 130
+{key: F}
+{tempo: 130}
 
 {comment: Intro}
 [F5][Am][G5]
@@ -30,10 +30,10 @@ Fire of [C]God [Csus]
 {comment: Bridge}
 This is our [F9]triumph, this is our [G]Lord
 He is our [Am7]shield, a heavenly [C/E]sword
-Jesus our [F9]banner, Satan be war[Dm7]ned
+Jesus our [F9]banner, Satan be [Dm7]warned
 He's trained our [Am]hearts and our minds for [G5]war!
 
-Refrain:
+{comment: Chorus}
 [C]Tell the enemy he has enemies
 [C]Tell the enemy he has enemies
 [C]Tell the enemy he has enemies

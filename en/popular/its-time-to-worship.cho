@@ -1,7 +1,7 @@
 {title: It's Time To Worship}
 {artist: Chris McClarney}
-
-Tempo: 73
+{key: G}
+{tempo: 73}
 
 {comment: Verse 1}
 [G]If there's still breath in your lungs
@@ -14,7 +14,7 @@ It's [Em7]time to worship [C]  [D/C]  [Cmaj7]  [C6]
 
 {comment: Chorus}
 Let [D]everything that has breath [Em7]
-[C]Praise the Lo[G]rd, praise the Lo[D]rd
+[C]Praise the [G]Lord, praise the [D]Lord
 Let [D]everything that has breath [Em7]
 [C]Praise Him [G]
 
@@ -23,7 +23,7 @@ Let [D]everything that has breath [Em7]
 [G] If His mercies are new [C2]
 It's [C2]time to worship
 [Em7]If you're still waiting
-To w[Em7]itness His promise break through [C2]
+To [Em7]witness His promise break through [C2]
 It's [C2]time to worship [Em7]
 It's [Em7]time to worship [C]  [D/C]  [Cmaj7]  [C6]
 

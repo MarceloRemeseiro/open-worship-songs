@@ -1,12 +1,12 @@
 {title: Lion}
 {artist: Elevation Worship}
-
-Tempo: 67
+{key: F}
+{tempo: 67}
 
 {comment: Intro}
 [Dm] [Bb7]  [Dm]  [Bb9]
 
-VERSE 1
+{comment: Verse 1}
 [Dm] God of Jacob, [Bbmaj7]Great I Am
 [Dm] King of Angels, [Bbmaj7]Son of Man
 [C] Voice of many waters, [Bbmaj7]Song of heaven's throne
@@ -29,13 +29,13 @@ Instromental:
 
 {comment: Bridge}
 Prepare the [Bb]way
-Prepare the[Csus] way of the Lord
-Prepare the[Gsus] way
-Prepare the[F6] way of the Lord
+Prepare the [Csus]way of the Lord
+Prepare the [Gsus]way
+Prepare the [F6]way of the Lord
 
 {comment: Tag}
 [Bb]  [Csus]  [Gsus]  [F6]  [Bb]  [Csus]  [Gsus]
 
 {comment: Bridge}
-O val[Bb]ley be ra[Csus/E]ised up
-O mou[Gsus]ntain be made l[F6]ow
+O [Bb]valley be [Csus/E]raised up
+O [Gsus]mountain be made [F6]low

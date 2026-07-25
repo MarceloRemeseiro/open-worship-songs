@@ -1,8 +1,8 @@
 {title: Here for You}
 {artist: Matt Redman, Matt Maher}
-
-Cant Key: G
-Scripture Reference(s): Mark 9:37
+{key: G}
+{meta: scripture Mark 9:37}
+{meta: cant_key G}
 
 {comment: Verse 1}
 Let our [G]praise be Your welcome
@@ -15,7 +15,7 @@ We are here for [C]You, we are here for [G]You
 {comment: Chorus}
 To [C]You our hearts are open
 [D]Nothing here is hidden
-[G/B]You are our one de[C]sire
+[G/B]You are our one [C]desire
 [Am]You alone are holy
 [D]Only You are worthy
 [G/B]God, let Your fire fall [C]down
@@ -31,7 +31,7 @@ We are here for [C]You, we are here for [G]You
 {comment: Bridge}
 We [G]welcome You with praise
 [G]We welcome You with praise
-Al[Em]mighty God of love
+[Em]Almighty God of love
 Be [C]welcomed in this place
 Let [G/B]every heart adore
 [G]Let every soul awake

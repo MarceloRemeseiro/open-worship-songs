@@ -1,8 +1,8 @@
 {title: You Deserve the Glory}
 {artist: Terry MacAlmon}
-
-CANT Key: C
-Tempo: 58
+{key: C}
+{tempo: 58}
+{meta: cant_key C}
 
 {comment: Pre-chorus}
 You deserve the [C]Glory,

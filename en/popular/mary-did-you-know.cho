@@ -1,6 +1,6 @@
 {title: Mary Did You Know}
-
-CANT Key: Em
+{key: Em}
+{meta: cant_key Em}
 
 {comment: Verse 1}
 Mary did you [Em]know that your [D]baby boy
@@ -14,7 +14,7 @@ This [Am7]child that you've delivered
 will [Em7]soon deliver [B7]you.
 
 {comment: Verse 2}
-Oh Mary did [Em]you know that yo[D]ur baby boy
+Oh Mary did [Em]you know that [D]your baby boy
 will [C]give sight to a [B7]blind man?
 Mary did you [Em]know that your [D]baby boy
 will [C]calm a storm with [B7]His hand?
@@ -22,7 +22,7 @@ will [C]calm a storm with [B7]His hand?
 Did you [C]know that your [D]baby boy
 has [G]walked where [D]angels [Em]trod?
 When you've [Am7]kissed your little baby
-you've kiss[Em]ed the face of God. [B7]
+you've [Em]kissed the face of God. [B7]
 
 {comment: Interlude}
 Oh [B7]mary did you [Em]know?   [D] [Am7] [B7] [B]
@@ -33,8 +33,8 @@ The [C]lame will leap, the [D]dumb will speak
 the [G]praises of the [B7]Lamb.
 
 {comment: Verse 3}
-Mary, did y[Em]ou know that yo[D]ur baby boy
-is [C]Lord of all cre[B7]ation?
+Mary, did [Em]you know that [D]your baby boy
+is [C]Lord of all [B7]creation?
 Mary, did you [Em]know that your [D]baby boy
 will [C]one day rule the [B7]nations?
 
@@ -43,12 +43,10 @@ was [G]heaven's [D]perfect [Em]lamb?
 This [Am7]sleeping child you're holding
 is the [Em7]great "[B7]I   [Em]AM".
 
-{comment: Intro}
-{sot}
+{comment: Intro (tab)}
 E ---------------------------------------|
 B ---3----3----1----0--------------------|
 G --0----2----2----2----X2---------------|
 D -2----0----2----1----------------------|
 A ---------------------------------------|
 D ---------------------------------------|
-{eot}

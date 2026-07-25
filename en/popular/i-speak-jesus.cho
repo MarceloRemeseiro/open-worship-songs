@@ -1,7 +1,7 @@
 {title: I Speak Jesus}
 {artist: Abby Benton, Carlene Prince, Dustin Smith, Jesse Reeves, Kristen Dutton, Raina Pratt}
-
-Church Key: E
+{key: E}
+{meta: church_key E}
 
 {comment: Intro}
 [E]  [C#m7]  [A]
@@ -14,13 +14,13 @@ I speak [E]Jesus
 {comment: Verse 2}
 [E]I just wanna speak the name of Jesus
 'Til [C#m]every dark addiction starts to break
-De[A]claring there is hope and there is freedom
+[A]Declaring there is hope and there is freedom
 I speak [E]Jesus
 
 {comment: Chorus}
 'Cause Your name is [B]power
 Your [E/G#]name is [A]healing, Your name is [E]life
-Break every [B]stronghold, shine [E/G#]through the sha[A]dows
+Break every [B]stronghold, shine [E/G#]through the [A]shadows
 Burn like [E]a fire
 
 {comment: Verse 3}
@@ -29,7 +29,7 @@ Burn like [E]a fire
 To [A]every soul held captive by depression
 I speak [E]Jesus
 
-CHORUS
+{comment: Chorus}
 
 Bridge (x2):
 Shout [E]Jesus from the mountains, Jesus in the streets

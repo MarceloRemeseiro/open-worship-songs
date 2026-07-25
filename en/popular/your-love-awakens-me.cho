@@ -1,9 +1,8 @@
 {title: Your love awakens me}
 {artist: Phil Wickham, Chris Quilala}
+{key: B}
 
-CANT:
-
-Intro/Interlude/Outro:
+{comment: Intro}
 | [B] / / / | / / [C#m7] / | [E] / / / | / / [F#sus] / / |
 
 {comment: Verse 1}
@@ -21,9 +20,9 @@ You called me [G#m7]into the light
 
 {comment: Chorus}
 [B]Your love is greater! [E]Your love is stronger!
-[G#m]Your love awakens, a[F#sus]wakens, [E2]awakens me!
+[G#m]Your love awakens, [F#sus]awakens, [E2]awakens me!
 [B]Your love is greater! [E]Your love is stronger!
-[G#m]Your love awakens, a[F#sus]wakens, [E2]awakens me!
+[G#m]Your love awakens, [F#sus]awakens, [E2]awakens me!
 
 {comment: Verse 2}
 [B]Feel the darkness shaking

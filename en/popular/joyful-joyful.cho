@@ -1,25 +1,25 @@
 {title: Joyful Joyful}
 {artist: Laura Hackett}
+{key: C}
+{meta: cant_key C}
 
-CANT Key: C
-
-Intro
-[C]Joyful, joy[C/Bb]ful, Lord [F]we adore Thee
-[C/E]God of glo[F]ry [Gsus]Lord of [G]love
-[C]Hearts un[C/Bb]fold like [F]flow'rs be[Fm]fore Thee
-[C/E]Opening [F]to the [G]sun a[C]bove.
+{comment: Intro}
+[C]Joyful, [C/Bb]joyful, Lord [F]we adore Thee
+[C/E]God of [F]glory [Gsus]Lord of [G]love
+[C]Hearts [C/Bb]unfold like [F]flow'rs [Fm]before Thee
+[C/E]Opening [F]to the [G]sun [C]above.
 
 {comment: Tag}
 [Am7] [F] [C/E] [G] (x2)
 
 {comment: Verse 1}
-[Am7]Joyful, [F]Joyful, [C/E]we ad[G]ore Thee
+[Am7]Joyful, [F]Joyful, [C/E]we [G]adore Thee
 [Am7]God of [F]glory, [C/E]Lord of [G]love
-[Am7]Hearts un[F]fold like [C/E]flow'rs be[G]fore Thee
-[Am7]Opening [F]to the [G]sun a[C]bove
+[Am7]Hearts [F]unfold like [C/E]flow'rs [G]before Thee
+[Am7]Opening [F]to the [G]sun [C]above
 [G]Melt the [Am]clouds of [G/B]sin and [C]sadness
-[G]Drive the [Am]dark of d[D]oubt a[G]way
-[C]Giver [C/Bb]of im[C/A]mortal [C/G#]gladness,
+[G]Drive the [Am]dark of [D]doubt [G]away
+[C]Giver [C/Bb]of [C/A]immortal [C/G#]gladness,
 [G/C]Fill us with the [G]light of day!
 
 {comment: Tag}
@@ -36,39 +36,25 @@ Singing birds and flowing fountains
 Call us to rejoice in Thee
 
 {comment: Pre-Chorus}
-Dm             C/E              F               G
-We sing in jubilation, adoration to a joyful King
-Dm	                      C/E
-You are singing, You are singing,
-F	                       G
-jealous love over all your children
+[Dm]We sing in [C/E]jubilation, adoration [F]to a joyful [G]King
+[Dm]You are singing, You are [C/E]singing,
+[F]jealous love over all your [G]children
 
 {comment: CHORUS}
-Am	              F	        C/E          	G
-I got the joy, I got the joy, I got the joy! (x4)
+[Am]I got the joy, I got [F]the joy, I got [C/E]the joy! (x4)[G]
 
-{comment: Verse 3}
-C - hold
+{comment: Verse 3 (mantener C)}
 Mortals join this happy chorus
 Which the morning stars began
 Father love is reigning over us
 Brother love binds man to man
-G      Am       G/B             C
-Ever singing march we onward
-G         Am       D	          G
-Victors in the midst of strife
-C       C/Bb     C/A       C/G#
-Joyful music leads us sunward
-G/C                   G
-In the triumph song of life
-
-Pre-Chorus
-Chorus
+[G]Ever [Am]singing [G/B]march we onward[C]
+[G]Victors in [Am]the [D]midst of strife[G]
+[C]Joyful [C/Bb]music [C/A]leads us [C/G#]sunward
+[G/C]In the triumph song of [G]life
 
 {comment: Bridge}
-Am                              F                      C/E             G
-In Your presence oh God, there is fullness of joy
-Am                     F                       C/E                   G
-At Your right hand oh God, there are pleasures evermore (x2 to C hold)
+[Am]In Your presence oh God, there [F]is fullness of joy[C/E][G]
+[Am]At Your right hand oh [F]God, there are pleasures [C/E]evermore (x2 to C hold[G])
 
-Chorus
+{comment: Chorus}

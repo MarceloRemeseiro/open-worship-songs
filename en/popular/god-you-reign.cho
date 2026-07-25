@@ -1,13 +1,13 @@
 {title: God You Reign}
 {artist: Lincoln Brewster}
-
-CANT Key: C
-Scripture Reference(s): Psalm 19:1
+{key: C}
+{meta: scripture Psalm 19:1}
+{meta: cant_key C}
 
 {comment: Verse 1}
 [C] You paint the [F]night
 [C] You count the [F]stars and You call them by [Am]name
-The skies pro[F]claim
+The skies [F]proclaim
 God You [C]reign
 
 [C] Your glory [F]shines
@@ -24,7 +24,7 @@ God You [C]reign
 {comment: Verse 2}
 [C] You part the [F]seas
 [C] You move the [F]mountains with the words that You [Am]say
-My song re[F]mains
+My song [F]remains
 God You [C]reign
 
 [C] You hold my [F]life

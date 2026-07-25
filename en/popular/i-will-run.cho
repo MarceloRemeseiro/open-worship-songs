@@ -1,17 +1,17 @@
 {title: I Will Run}
 {artist: Misty Edwards}
-
-CANT Key: C#m
+{key: Bm}
+{meta: cant_key C#m}
 
 {comment: Chorus}
 [Bm]All   [G]I   [A]want is [Bm]you,
 [Bm]all   [G]I   [A]crave is [Bm]you.
 
 {comment: Verse}
-I will [Bm]run the race set bef[G]ore [A]me
-I will [Bm]seek your face as the pr[G]ize of my l[A]ife
-I will [Bm]run the race set bef[G]ore [A]me
-I will [Bm]seek your face as the pr[G]ize of my l[A]ife
+I will [Bm]run the race set [G]before [A]me
+I will [Bm]seek your face as the [G]prize of my [A]life
+I will [Bm]run the race set [G]before [A]me
+I will [Bm]seek your face as the [G]prize of my [A]life
 
 {comment: Pre-Chorus}
 I will [Bm]run, I will run, I will run, I will run,

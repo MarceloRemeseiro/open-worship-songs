@@ -1,7 +1,7 @@
 {title: The Name of Jesus is Lifted High}
 {artist: Eddie James}
-
-CANT Key: Em
+{key: Em}
+{meta: cant_key Em}
 
 {comment: CHORUS}
 [Em]The name of Jesus is lifted high.
@@ -10,7 +10,7 @@ CANT Key: Em
 [C]In [D]this [Em]place.
 
 {comment: CHORUS 2}
-Em
+[Em]
 [Em]Revival fire is falling down.
 [C]Falling Down, [D]Falling down.
 [Em]Revival fire is falling down.
@@ -24,4 +24,4 @@ Em
 
 {comment: BRIDGE}
 [Em]We lift up the name of [D]Jesus, we [C]lift up the name of [D]Jesus
-[Em]We lift up the name of J[D]esus, [C]in [D]this [Em]place
+[Em]We lift up the name of [D]Jesus, [C]in [D]this [Em]place

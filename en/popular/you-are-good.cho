@@ -1,7 +1,7 @@
 {title: You Are Good}
 {artist: Israel Houghton}
-
-CANT Key: E
+{key: A}
+{meta: cant_key E}
 
 {comment: Intro}
 [E]  [E/Eb]  [E/D]  [E/C#]
@@ -9,11 +9,11 @@ CANT Key: E
 
 {comment: Verse}
 [E]Lord You are good
-And Your [B/E]mercy endureth for[D/E]ever [A/E](repeat)
+And Your [B/E]mercy endureth [D/E]forever [A/E](repeat)
 
 {comment: Pre-Chorus}
 [A]People from every [B/A]nation and tongue
-[C]From generation to g[D/A]eneration
+[C]From generation to [D/A]generation
 
 {comment: Chorus}
 We [E]worship [B]You [D]Hallelujah [A]Hallelujah

@@ -1,10 +1,10 @@
 {title: Indescribable}
 {artist: Chris Tomlin}
-
-Original Key(s): B
-Tempo: 90
-Time: 6/8
-Scripture Reference(s): Psalms 147:4-5, Psalms 95:4-5
+{key: A}
+{tempo: 90}
+{meta: scripture Psalms 147:4-5, Psalms 95:4-5}
+{meta: original_key B}
+{time: 6/8}
 
 {comment: Verse 1}
 From the [F#m7]highest of heights to the [E/G#]depths of the [A]sea,

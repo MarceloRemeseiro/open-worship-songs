@@ -1,9 +1,9 @@
 {title: Even So Come}
 {artist: Jason Ingram, Chris Tomlin, Jess Cates}
-
-Tempo: 163
-Recommended Key(s): D, D#/Eb, E, F, F#/Gb, G
-Scripture Reference(s): Revelation 22:12
+{key: G}
+{tempo: 163}
+{meta: scripture Revelation 22:12}
+{meta: recommended_keys D, D#/Eb, E, F, F#/Gb, G}
 
 {comment: Intro}
 [Am]  [Am]  [Em] [Em]  [G] [D] [Dsus] [D]

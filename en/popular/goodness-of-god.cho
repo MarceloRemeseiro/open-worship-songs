@@ -1,7 +1,7 @@
 {title: Goodness of God}
 {artist: Bethel Music}
-
-Tempo: 63
+{key: Ab}
+{tempo: 63}
 
 {comment: Intro}
 [Ab]   [Db]
@@ -11,13 +11,13 @@ I love You [Ab]Lord, Oh Your [Db]mercy never [Ab]fails me
 [Eb/G]All my [Fm]days, I've been [Db]held in Your [Eb]hands
 From the moment that I [Fm]wake up [Db]
 Until I lay [Ab]my [Eb/G]head  [Fm]
-I will [Db]sing of the g[Eb]oodness of [Ab]God
+I will [Db]sing of the [Eb]goodness of [Ab]God
 
 {comment: Chorus}
 [Db]   All my life You have been [Ab]faithful
 [Db]   All my life You have been [Ab]so, so [Eb]good
 [Db]   With every breath that I am [Ab]able [Eb/G] [Fm]
-I will [Db]sing of the g[Eb]oodness of [Ab]God
+I will [Db]sing of the [Eb]goodness of [Ab]God
 
 {comment: Verse 2}
 I love Your [Ab]voice, You have [Db]led me through the [Ab]fire
@@ -31,8 +31,8 @@ I have [Db]lived in the [Eb]goodness of [Ab]God
 It's [Eb]running after [Ab]me
 [Ab/C]   Your goodness is [Db]running after
 It's [Eb]running after [Ab]me
-With my [Ab/C]life laid down I'm sur[Ab]rendered now
-I [Eb]give You every[Fm]thing
+With my [Ab/C]life laid down I'm [Ab]surrendered now
+I [Eb]give You [Fm]everything
 [Ab/C]   Your goodness is [Db]running after
 It's [Eb]running after [Ab]me
 
@@ -40,4 +40,4 @@ It's [Eb]running after [Ab]me
 [Ab]  [Db]
 
 {comment: Tag}
-I will [Db]sing of the g[Eb]oodness of [Ab]God
+I will [Db]sing of the [Eb]goodness of [Ab]God

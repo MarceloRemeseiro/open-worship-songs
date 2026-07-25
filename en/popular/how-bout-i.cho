@@ -1,17 +1,17 @@
 {title: How Bout I}
 {artist: Jaye Thomas, Chris Tofilon}
-
-Church Key: E
+{key: E}
+{meta: church_key E}
 
 {comment: Intro}
 [A]  [C#m]  [E]  [B] x2
 
 {comment: Verse 1}
 
-[A]I've h[C#m]eard [E]You can make me [B]clean
+[A]I've [C#m]heard [E]You can make me [B]clean
 [A] I’ve [C#m]heard there is [E]healing in Your [B]wings
 [A] I've [C#m]heard [E]You will not [B]reject, those who [A]come
-[E]Who[A] come[C#m] to [B]You
+[E]Who [A]come [C#m]to [B]You
 
 {comment: Chorus}
 So how 'bout [E]I give You my [B]ashes?

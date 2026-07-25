@@ -1,5 +1,6 @@
 {title: Whatever Thing}
 {artist: Christina Graves}
+{key: C}
 
 {comment: Verse 1}
 [C]Whatever [G]thing that I have [Am]carried in this place
@@ -7,7 +8,7 @@ That will [F]keep me from You, I will [C]lay it at Your [G]feet
 [C]Whatever [G]burden I have [Am]carried for so long
 That will [F]keep me from seeing You, I will [C]lay it down right [G]now
 
-Chorus
+{comment: Chorus}
 [C]I [F]need [Am]to hear You [G]speak to me
 [C]I [F]want [Am]to feel You [G]in this place
 [C]You [F]long [Am]to take me [G]in Your arms of [F]love

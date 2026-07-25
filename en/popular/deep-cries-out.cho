@@ -1,11 +1,11 @@
 {title: Deep Cries Out}
 {artist: Bethel Music}
-
-CANT Key: G
+{key: C}
+{meta: cant_key G}
 
 {comment: Verse}
 [G]I’ve got a river of living water [C]a fountain that never will run dry
-[G]It’s open heavens we’re releasing an[C]d we will never be denied
+[G]It’s open heavens we’re releasing [C]and we will never be denied
 
 {comment: Pre chorus}
 Cause you’re [G]stirring up deep deep wells,
@@ -21,8 +21,8 @@ Cause we’re [G]stirring up deep deep wells,
 [G/B]So we cry out to, [C]we cry out to, you Jesus
 
 {comment: Bridge}
-[G]We’re falling i[Am7]nto deeper w[G/B]aters, calling o[C]ut to you
-[G]We’re walking i[G/B]nto deeper w[C]aters, going [Am7]after you
+[G]We’re falling [Am7]into deeper [G/B]waters, calling [C]out to you
+[G]We’re walking [G/B]into deeper [C]waters, going [Am7]after you
 
 {comment: Tag}
 [G]If He goes to the left then we’ll go to the left,

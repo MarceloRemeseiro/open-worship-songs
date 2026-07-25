@@ -1,7 +1,7 @@
 {title: Everlasting God}
 {artist: Lincoln Brewster}
-
-Tempo: 110
+{key: B}
+{tempo: 110}
 
 {comment: Verse 1}
 [B]Strength will rise as we wait upon the Lord
@@ -21,7 +21,7 @@ You comfort those in [G#m]need
 You lift us up on
 [E]Wings [F#m]like [G#m]eagles    [F#/A#]
 
-Instrumental
+{comment: Instrumental}
 
 [B]You are the Everlasting [E]God
 The Everlasting [G#m]God

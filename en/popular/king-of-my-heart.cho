@@ -1,13 +1,13 @@
 {title: King of My Heart}
 {artist: John Mark McMillan, Sarah McMillan}
+{key: Gm}
+{tempo: 68}
+{meta: scripture Psalm 136:1; Psalm 100:5}
 
-Tempo: 68
-Scripture Reference(s): Psalm 136:1; Psalm 100:5
+{comment: Intro}
+| [Gm] // [F] // | [Eb] [Bb] // |
 
-Intro
-[| Gm // F // | Eb Bb // |]
-
-Verse 1
+{comment: Verse 1}
 [Bb]Let the King of my heart be
 The [Eb]mountain when I [Bb]run
 The [Gm]fountain I drink [F]from; Oh
@@ -17,11 +17,11 @@ The [Eb]shadow where I [Bb]hide
 The [Gm]ransom for my [F]life; oh
 He [Eb]is my [Bb]song
 
-Chorus
+{comment: Chorus}
 You are [Gm]good [F]good, [Eb]Oh   [Bb]
 You are [Gm]good, [F]good [Eb]Oh   [Bb]
 
-Verse 2
+{comment: Verse 2}
 Let the [Bb]King of my heart be
 The [Eb]wind inside my [Bb]sails
 The [Gm]anchor in the [F]waves; Oh
@@ -31,9 +31,8 @@ The [Eb]fire inside my [Bb]veins
 And the [Gm]echo of my [F]days; Oh
 He [Eb]is my [Bb]song
 
-Chorus
+{comment: Bridge 1}
 
-Bridge 1
 [Bb]You're never gonna let
 Never gonna let me down
 [Gm]You're never gonna let
@@ -44,13 +43,12 @@ Never gonna let me down
 [F]Never gonna let me down
 |2x|
 
-Chorus
+{comment: Bridge 2}
 
-Bridge 2
 [Gm]You're [F]never gonna let,
 [Eb]Never gonna let [Bb]me down
 |4x|
 
-Ending
+{comment: Ending}
 [Eb]When the [Gm]night is [F]holding [Eb]onto [Bb]me
 [Cm]God is [Bb]holding [Eb]on

@@ -1,7 +1,7 @@
 {title: I Believe}
 {artist: Phil Wickham}
-
-Church Key: Ab
+{key: D}
+{meta: church_key Ab}
 
 {comment: Intro}
 |[D] / / [G] | [D/G] / / / | [G/B] / [Bm7] [Asus] | [Asus] / / / |
@@ -29,7 +29,7 @@ Church Key: Ab
 [A]Our God has [Bm7]overcome
 [G]The King who [D]was and is and [A]evermore will [Bm7]be [A]
 In [G]Jesus [D/F#]mighty [A]name
-I beli[D]eve
+I [D]believe
 
 {comment: Turnaround}
 |[D] / / [G] | [D/G] / / / | [G/B] / [Bm7] [Asus] | [Asus] / / / |
@@ -51,15 +51,15 @@ I beli[D]eve
 | [G] / / [Bm7] | / / / / | [Asus] / / [D] |
 
 {comment: BRIDGE}
-[D]  No I'll [D/F#]never be a[G]shamed
+[D]  No I'll [D/F#]never be [G]ashamed
 Of the [Bm7]gospel of Jesus [Asus]Christ
 [D]  How could I [D/F#]ever walk [G]away
 From the [Bm7]One who saved my [Asus]life
-[D]  No I'll [D/F#]never be a[G]shamed
+[D]  No I'll [D/F#]never be [G]ashamed
 Of the [Bm7]gospel of Jesus [Asus]Christ
 [D]  How could I [D/F#]ever walk [G]away
 From the [Bm7]One who saved my [Asus]life
-Oh no i'll [D/F#]never be a[G]shamed
+Oh no i'll [D/F#]never be [G]ashamed
 Of the [Bm7]gospel of Jesus [Asus]Christ [D]
 How could I [D/F#]ever walk [G]away
 From the [Bm7]One who saved my [Asus]life
@@ -72,8 +72,8 @@ Last CHORUS:
 [G]All praise to the [D]Holy Spirit
 [A]Our God has [Bm7]overcome
 [G]The King who [D]was and is and [A]evermore will [Bm7]be [A]
-In [G]Jesus mighty [A]name I beli[Bm7]eve  [D/F#]
-In [G]Jesus [D]mighty [A]name I be[D]lieve
+In [G]Jesus mighty [A]name I [Bm7]believe  [D/F#]
+In [G]Jesus [D]mighty [A]name I [D]believe
 
 {comment: Outro}
 |[D] / / [G] | [D/G] / / / | [G/B] / [Bm7] [Asus] | [Asus] / / / |

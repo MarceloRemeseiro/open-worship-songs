@@ -1,11 +1,12 @@
 {title: So So Good}
 {artist: Phil Wickham, Brandon Lake, Elevation Worship}
+{key: D}
 
 {comment: Verse 1}
 [D]This is my story, I testify
 [D]The blessings on blessings
 [D]You poured on my life
-When [Bm]I start remember[G/B]ing
+When [Bm]I start [G/B]remembering
 how good [D]You've been
 
 {comment: Verse 2}
@@ -13,7 +14,7 @@ how good [D]You've been
 [D]tears turn to praise
 [D]Chains of depression
 [D]broken by grace
-When [Bm]I start remember[G/B]ing
+When [Bm]I start [G/B]remembering
 how good [D]You've been
 
 {comment: Chorus}
@@ -25,7 +26,7 @@ how good [D]You've been
 [D]fall to the ground
 [D]Armies of heaven
 [D]always surround
-When [Bm]I start remember[G/B]ing
+When [Bm]I start [G/B]remembering
 How You [D]carried my cross
 [D]Called me by name
 [A]Loved me like I was,
@@ -51,7 +52,7 @@ I look back on my [D]life and all that I [F#m]see
 [G]When I say "God is [Bm]good," you say "[A]All the time!"
 [A]When I say "All the time," you say "[D]God is"
 
-[Chorus]
+{comment: Chorus}
 [D]So, so, so, so, so, so good to me
 [D]Yeah, You've been so, so, so, so, so, so good to me
 [Bm]From morning to night
