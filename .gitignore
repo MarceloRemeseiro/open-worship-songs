@@ -4,3 +4,8 @@ api/node_modules/
 api/dist/
 .DS_Store
 *.log
+
+# artefactos generados
+tools/__pycache__/
+tools/report.json
+tools/keys_report.json
